@@ -61,6 +61,7 @@
 
 #### File Sharing
 
+- [KGet](https://www.kde.org/applications/internet/kget/) - A a versatile and user-friendly download manager. ![KDE Project][KDE Project]
 - [qBittorrent](https://www.qbittorrent.org/) - An advanced BitTorrent client programmed in C++, based on Qt toolkit and libtorrent-rasterbar.
 
 ### Multimedia
@@ -70,10 +71,14 @@
 - [Gwenview](https://www.kde.org/applications/graphics/gwenview/) - A fast and easy to use image viewer by KDE. ![KDE Project][KDE Project]
 - [Spectacle](https://www.kde.org/applications/graphics/spectacle/) - A application for capturing desktop screenshots. ![KDE Project][KDE Project]
 
+### Audio
+
+- [Amarok](https://amarok.kde.org/) - Amarok is a powerful music player for Linux, Unix and Windows with an intuitive interface. ![KDE Project][KDE Project]
+
 #### Video
 
-- [SMPlayer](https://www.smplayer.info/) - Media player with built-in codecs that can play virtually all video and audio formats.
 - [Kdenlive](https://www.kdenlive.org/) - A non-linear video editor for Linux using the MLT video framework.
+- [SMPlayer](https://www.smplayer.info/) - Media player with built-in codecs that can play virtually all video and audio formats.
 
 ### Utilities
 
@@ -100,15 +105,15 @@
 
 #### Password Managers
 
-- [KeePassXC](https://keepassxc.org/) - Cross-platform community-driven port of Keepass password manager.
 - [KDE Wallet Manager](https://utils.kde.org/projects/kwalletmanager/) - Manage the passwords on KDE systems. The KDE wallet subsystem allows access and password management of every application that integrates with the KDE wallet. ![KDE Project][KDE Project]
+- [KeePassXC](https://keepassxc.org/) - Cross-platform community-driven port of Keepass password manager.
 
 ## Customizations
 
 ### Plasma Themes
 
-- [arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization.
 - [adapta-kde](https://github.com/PapirusDevelopmentTeam/adapta-kde) - Adapta KDE customization.
+- [arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization.
 
 ### Icon Themes
 
@@ -128,5 +133,6 @@
 ### News
 
 - [KDE.news](https://dot.kde.org/) - The official KDE news website.
+- [Phoronix](https://www.phoronix.com/scan.php?page=news_topic&q=KDE) - Phoronix KDE News Archives.
 
 [KDE Project]: images/icon-kde-grey.svg "KDE Project"
