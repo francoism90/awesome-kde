@@ -114,6 +114,19 @@
 
 - [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
----
+## Resources
+
+### Communities
+
+- [Kreddit](https://www.reddit.com/r/kde/) - KDE Community on Reddit.
+
+### Blogs
+
+- [Nico's Blog](https://nicolasfella.wordpress.com/) - Programmer from Germany, working on KDE.
+- [Planet KDE](https://planet.kde.org/) - Blogs of KDE contributors.
+
+### News
+
+- [KDE.news](https://dot.kde.org/) - The official KDE news website.
 
 [KDE Project]: images/icon-kde-grey.svg "KDE Project"
