@@ -125,8 +125,8 @@
 
 ### Plasma Themes
 
-- [adapta-kde](https://github.com/PapirusDevelopmentTeam/adapta-kde) - Adapta KDE customization.
-- [arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization.
+- [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde) - A port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras.
+- [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
 
 ### Icon Themes
 
@@ -137,20 +137,21 @@
 ### Communities
 
 - [Kreddit](https://www.reddit.com/r/kde/) - KDE Community on Reddit.
+- [KDE Store](https://store.kde.org/) - Official KDE Store for developers to share Plasma customizations. ![KDE Project][KDE Project]
 
 ### Blogs
 
 - [Nico's Blog](https://nicolasfella.wordpress.com/) - Programmer from Germany, working on KDE.
-- [Planet KDE](https://planet.kde.org/) - Blogs of KDE contributors.
+- [Planet KDE](https://planet.kde.org/) - Blogs of KDE contributors. ![KDE Project][KDE Project]
 
 ### News
 
-- [KDE.news](https://dot.kde.org/) - The official KDE news website.
+- [KDE.news](https://dot.kde.org/) - The official KDE news website. ![KDE Project][KDE Project]
 - [Phoronix](https://www.phoronix.com/scan.php?page=news_topic&q=KDE) - Phoronix KDE News Archives.
 
 ### Wiki's
 
-- [KDE Wikis](https://wiki.kde.org/) - The KDE wikis are a source of information and documentation for the KDE desktop, applications, teams, events and more.
+- [KDE Wikis](https://wiki.kde.org/) - The KDE wikis are a source of information and documentation for the KDE desktop, applications, teams, events and more. ![KDE Project][KDE Project]
 - [ArchWiki](https://wiki.archlinux.org/index.php/KDE) - Arch Linux KDE Wiki.
 - [Gentoo Wiki](https://wiki.gentoo.org/wiki/KDE) - Gentoo KDE Wiki.
 
