@@ -30,6 +30,7 @@
   - [Services Integration](#services-integration)
 - [Themes](#themes)
 - [Icons](#icons)
+  - [Material Icons](#material-icons)
 - [Community](#community)
 - [Developer Tools](#developer-tools)
   - [IDE](#ide)
@@ -45,6 +46,17 @@
 
 - [Falkon](https://community.kde.org/Incubator/Projects/Falkon) - QtWebEngine based cross-platform web browser. ![KDE Project][KDE Project]
 - [Konqueror](https://konqueror.org/) - Uses the KHTML rendering engine (and optionally Webkit) so it supports the latest web standards such as HTML5, Javascript, CSS3, and others. ![KDE Project][KDE Project]
+- [qBittorrent](https://www.qbittorrent.org/) - An advanced BitTorrent client programmed in C++, based on Qt toolkit and libtorrent-rasterbar.
+
+## Documents
+- [Okular](https://www.kde.org/applications/graphics/okular/) - A universal document viewer. ![KDE Project][KDE Project]
+
+## Multimedia
+- [SMPlayer](https://www.smplayer.info/) - Media player with built-in codecs that can play virtually all video and audio formats.
+- [Kdenlive](https://www.kdenlive.org/) - A non-linear video editor for Linux using the MLT video framework.
+
+## Graphics
+- [Gwenview](https://www.kde.org/applications/graphics/gwenview/) - A fast and easy to use image viewer by KDE. ![KDE Project][KDE Project]
 
 ## Icons
 
