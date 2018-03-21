@@ -4,7 +4,7 @@
 
 > A curated list of delightful KDE Plasma 5 [applications](#applications), [customizations](#customizations) and [resources](#resources).
 
-[Plasma](https://www.kde.org/plasma-desktop.php) is KDE's flagship product, offering the most customizable desktop environment available. The KDE community has the driving goal of making it simple by default, and powerful when needed.
+[Plasma](https://www.kde.org/plasma-desktop.php) is [KDE](https://www.kde.org)'s flagship product, offering the most customizable desktop environment available. The KDE community has the driving goal of making it simple by default, and powerful when needed.
 
 > Items marked with the ![KDE Project][KDE Project] are projects hosted on KDE's own infrastructure and developed by the KDE community.
 
