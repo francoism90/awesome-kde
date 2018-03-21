@@ -87,6 +87,13 @@
 
 - [Okular](https://www.kde.org/applications/graphics/okular/) - A universal document viewer. ![KDE Project][KDE Project]
 
+### Security
+
+#### Password Managers
+
+- [KeePassXC](https://keepassxc.org/) - Cross-platform community-driven port of Keepass password manager.
+- [KDE Wallet Manager](https://utils.kde.org/projects/kwalletmanager/) - Manage the passwords on KDE systems. The KDE wallet subsystem allows access and password management of every application that integrates with the KDE wallet. 
+
 ## Customizations
 
 ### Plasma Themes
