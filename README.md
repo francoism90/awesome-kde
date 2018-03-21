@@ -89,6 +89,11 @@
 
 ## Customizations
 
+### Plasma Themes
+
+- [arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization.
+- [adapta-kde](https://github.com/PapirusDevelopmentTeam/adapta-kde) - Adapta KDE customization.
+
 ### Icon Themes
 
 - [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
