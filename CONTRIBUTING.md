@@ -9,7 +9,7 @@ Ensure your pull request to the following guidelines:
 - Make sure your text editor is set to remove trailing whitespace.
 - New categories or improvements to the existing categorization are welcome.
 - Please check that your contribution follows the following requirements :
-  - The application has to follow enough of the KDE Visual Design Group/HIG.
+  - The application has to follow enough of the [KDE Visual Design Group/HIG](https://community.kde.org/KDE_Visual_Design_Group/HIG).
   - Please avoid unmaintained items. 
   - Please avoid items that haven't had any stable release.
   - Please label official KDE Projects.
