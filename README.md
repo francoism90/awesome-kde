@@ -6,7 +6,7 @@
 
 [Plasma](https://www.kde.org/plasma-desktop.php) is KDE's flagship product, offering the most customizable desktop environment available. The KDE community has the driving goal of making it simple by default, and powerful when needed.
 
-> Items marked with the ![KDE Project][KDE Project] are projects hosted on KDE's own git servers and developed by the KDE community.
+> Items marked with the ![KDE Project][KDE Project] are projects hosted on KDE's own infrastructure and developed by the KDE community.
 
 ## Contents  
 
@@ -44,6 +44,7 @@
 ### Internet
 
 - [Falkon](https://community.kde.org/Incubator/Projects/Falkon) - QtWebEngine based cross-platform web browser. ![KDE Project][KDE Project]
+- [Konqueror](https://konqueror.org/) - Uses the KHTML rendering engine (and optionally Webkit) so it supports the latest web standards such as HTML5, Javascript, CSS3, and others. ![KDE Project][KDE Project]
 
 [KDE Project]: images/icon-kde-grey.svg "KDE Project"
 
