@@ -46,3 +46,9 @@
 - [Falkon](https://community.kde.org/Incubator/Projects/Falkon) - QtWebEngine based cross-platform web browser. ![KDE Project][KDE Project]
 
 [KDE Project]: images/icon-kde-grey.svg "KDE Project"
+
+---
+
+## Credits
+
+[Kazhnuz](https://github.com/Kazhnuz) for [awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) where this list is based on.
