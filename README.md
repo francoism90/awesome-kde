@@ -46,10 +46,16 @@
 - [Falkon](https://community.kde.org/Incubator/Projects/Falkon) - QtWebEngine based cross-platform web browser. ![KDE Project][KDE Project]
 - [Konqueror](https://konqueror.org/) - Uses the KHTML rendering engine (and optionally Webkit) so it supports the latest web standards such as HTML5, Javascript, CSS3, and others. ![KDE Project][KDE Project]
 
-[KDE Project]: images/icon-kde-grey.svg "KDE Project"
+## Icons
+
+### Material Icons
+
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
 ---
 
 ## Credits
 
 [Kazhnuz](https://github.com/Kazhnuz) for [awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) where this list is based on.
+
+[KDE Project]: images/icon-kde-grey.svg "KDE Project"
