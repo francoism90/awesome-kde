@@ -48,6 +48,7 @@
   - [Communities](#communities)
   - [Blogs](#blogs)
   - [News](#news)
+  - [Wiki's](#wikis)
 
 ---
 
@@ -107,7 +108,7 @@
 
 #### Office Suites
 
-- [Calligra](https://www.calligra.org/) - Includes efficient and capable office components.
+- [Calligra](https://www.calligra.org/) - Includes efficient and capable office components. ![KDE Project][KDE Project]
 
 #### Readers and Viewers
 
@@ -146,5 +147,11 @@
 
 - [KDE.news](https://dot.kde.org/) - The official KDE news website.
 - [Phoronix](https://www.phoronix.com/scan.php?page=news_topic&q=KDE) - Phoronix KDE News Archives.
+
+### Wiki's
+
+- [KDE Wikis](https://wiki.kde.org/) - The KDE wikis are a source of information and documentation for the KDE desktop, applications, teams, events and more.
+- [ArchWiki](https://wiki.archlinux.org/index.php/KDE) - Arch Linux KDE Wiki.
+- [Gentoo Wiki](https://wiki.gentoo.org/wiki/KDE) - Gentoo KDE Wiki.
 
 [KDE Project]: images/icon-kde-grey.svg "KDE Project"
