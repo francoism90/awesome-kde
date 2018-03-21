@@ -11,32 +11,23 @@
 ## Contents  
 
 - [Applications](#applications)
-  - [Productivity](#productivity)
   - [Internet](#internet)
-  - [Documents](#documents)
+    - [Web browsers](#web-browsers)
   - [Multimedia](#multimedia)
-  - [Graphics](#graphics)
-  - [Games](#games)
+    - [Image](#image)
+    - [Audio](#audio)
+    - [Video](#video)
+  - [Utilities](#utilities)
+    - [Finders](#finders)
+  - [Documents](#documents)
+    - [Readers and Viewers](#readers-and-viewers)
+  - [Security](#security)
+  - [Science](#science)
   - [Customization](#customization)
-  - [Tools](#tools)
-  - [System](#system)
-  - [Others](#others)
-- [Extensions](#extensions)
-  - [Menus](#menus)
-  - [Applets](#applets)
-  - [Status Area](#status-area)
-  - [Windows](#windows)
-  - [Docks and Panels](#docks-and-panels)
-  - [Services Integration](#services-integration)
-- [Themes](#themes)
-- [Icons](#icons)
-  - [Material Icons](#material-icons)
+    - [Icons](#icons)
+      - [Material Icons](#material-icons)
+    - [Themes](#themes)
 - [Community](#community)
-- [Developer Tools](#developer-tools)
-  - [IDE](#ide)
-  - [Libraries and Utility](#libraries-and-utility)
-  - [Examples](#examples)
-  - [Documentation](#documentations)
 
 ---
 
@@ -44,23 +35,43 @@
 
 ### Internet
 
+#### Web browsers
+
 - [Falkon](https://community.kde.org/Incubator/Projects/Falkon) - QtWebEngine based cross-platform web browser. ![KDE Project][KDE Project]
 - [Konqueror](https://konqueror.org/) - Uses the KHTML rendering engine (and optionally Webkit) so it supports the latest web standards such as HTML5, Javascript, CSS3, and others. ![KDE Project][KDE Project]
 - [qBittorrent](https://www.qbittorrent.org/) - An advanced BitTorrent client programmed in C++, based on Qt toolkit and libtorrent-rasterbar.
 
-## Documents
-- [Okular](https://www.kde.org/applications/graphics/okular/) - A universal document viewer. ![KDE Project][KDE Project]
+### Multimedia
 
-## Multimedia
+#### Image
+
+- [Gwenview](https://www.kde.org/applications/graphics/gwenview/) - A fast and easy to use image viewer by KDE. ![KDE Project][KDE Project]
+
+
+#### Video
+
 - [SMPlayer](https://www.smplayer.info/) - Media player with built-in codecs that can play virtually all video and audio formats.
 - [Kdenlive](https://www.kdenlive.org/) - A non-linear video editor for Linux using the MLT video framework.
 
-## Graphics
-- [Gwenview](https://www.kde.org/applications/graphics/gwenview/) - A fast and easy to use image viewer by KDE. ![KDE Project][KDE Project]
+### Utilities
 
-## Icons
+#### Finders
 
-### Material Icons
+- [KFind](https://www.kde.org/applications/utilities/kfind/) - A standalone search tool, launched by KRunner or from your menu. It is also integrated into Konqueror as "Find File" in the "Tools" menu. ![KDE Project][KDE Project]
+
+
+### Documents
+
+#### Readers and Viewers
+
+- [Okular](https://www.kde.org/applications/graphics/okular/) - A universal document viewer. ![KDE Project][KDE Project]
+
+
+## Customization
+
+### Icons
+
+#### Material Icons
 
 - [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
