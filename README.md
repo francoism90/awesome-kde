@@ -71,7 +71,7 @@
 - [Gwenview](https://www.kde.org/applications/graphics/gwenview/) - A fast and easy to use image viewer by KDE. ![KDE Project][KDE Project]
 - [Spectacle](https://www.kde.org/applications/graphics/spectacle/) - A application for capturing desktop screenshots. ![KDE Project][KDE Project]
 
-### Audio
+#### Audio
 
 - [Amarok](https://amarok.kde.org/) - Amarok is a powerful music player for Linux, Unix and Windows with an intuitive interface. ![KDE Project][KDE Project]
 
@@ -88,6 +88,7 @@
 
 #### Files
 
+- [Ark](https://www.kde.org/applications/utilities/ark/) - Archiving Tool. ![KDE Project][KDE Project]
 - [Dolphin](https://userbase.kde.org/Dolphin) - File manager included in the KDE desktop. ![KDE Project][KDE Project]
 - [KFind](https://www.kde.org/applications/utilities/kfind/) - A standalone search tool, launched by KRunner or from your menu. It is also integrated into Konqueror as "Find File" in the "Tools" menu. ![KDE Project][KDE Project]
 
@@ -96,6 +97,10 @@
 - [Sweeper](https://www.kde.org/applications/utilities/sweeper) - Sweeper helps to clean unwanted traces the user leaves on the system and to regain disk space removing unused temporary files. ![KDE Project][KDE Project]
 
 ### Documents
+
+#### Editors
+
+- [KDevelop](https://www.kdevelop.org/) - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP. ![KDE Project][KDE Project]
 
 #### Readers and Viewers
 
