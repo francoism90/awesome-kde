@@ -25,6 +25,7 @@
     - [Maintenance](#maintenance)
   - [Documents](#documents)
     - [Editors](#editors)
+    - [Office Suites](#office-suites)
     - [Readers and Viewers](#readers-and-viewers)
   - [Security](#security)
     - [File Security](#file-security)
@@ -101,6 +102,12 @@
 #### Editors
 
 - [KDevelop](https://www.kdevelop.org/) - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP. ![KDE Project][KDE Project]
+- [Kate](https://www.kde.org/applications/utilities/kate/) - A multi-document, multi-view text editor by KDE. ![KDE Project][KDE Project]
+- [KWrite](https://www.kde.org/applications/utilities/kwrite) - A text editor by KDE, based on the KDE Frameworks editor component. ![KDE Project][KDE Project]
+
+#### Office Suites
+
+- [Calligra](https://www.calligra.org/) - Includes efficient and capable office components.
 
 #### Readers and Viewers
 
