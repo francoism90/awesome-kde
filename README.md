@@ -68,7 +68,7 @@
 #### Image
 
 - [Gwenview](https://www.kde.org/applications/graphics/gwenview/) - A fast and easy to use image viewer by KDE. ![KDE Project][KDE Project]
-
+- [Spectacle](https://www.kde.org/applications/graphics/spectacle/) - A application for capturing desktop screenshots. ![KDE Project][KDE Project]
 
 #### Video
 
@@ -77,9 +77,18 @@
 
 ### Utilities
 
+#### Terminal Emulators
+
+- [Konsole](https://www.kde.org/applications/system/konsole/) - Terminal emulator included in the KDE desktop. ![KDE Project][KDE Project]
+
 #### Files
 
+- [Dolphin](https://userbase.kde.org/Dolphin) - File manager included in the KDE desktop. ![KDE Project][KDE Project]
 - [KFind](https://www.kde.org/applications/utilities/kfind/) - A standalone search tool, launched by KRunner or from your menu. It is also integrated into Konqueror as "Find File" in the "Tools" menu. ![KDE Project][KDE Project]
+
+#### Maintenance
+
+- [Sweeper](https://www.kde.org/applications/utilities/sweeper) - Sweeper helps to clean unwanted traces the user leaves on the system and to regain disk space removing unused temporary files. ![KDE Project][KDE Project]
 
 ### Documents
 
@@ -92,7 +101,7 @@
 #### Password Managers
 
 - [KeePassXC](https://keepassxc.org/) - Cross-platform community-driven port of Keepass password manager.
-- [KDE Wallet Manager](https://utils.kde.org/projects/kwalletmanager/) - Manage the passwords on KDE systems. The KDE wallet subsystem allows access and password management of every application that integrates with the KDE wallet. 
+- [KDE Wallet Manager](https://utils.kde.org/projects/kwalletmanager/) - Manage the passwords on KDE systems. The KDE wallet subsystem allows access and password management of every application that integrates with the KDE wallet. ![KDE Project][KDE Project]
 
 ## Customizations
 
