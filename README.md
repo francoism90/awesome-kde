@@ -11,44 +11,11 @@
 ## Contents  
 
 - [Applications](#applications)
-  - [Internet](#internet)
-    - [Web Browsers](#web-browsers)
-    - [File Sharing](#file-sharing)
-    - [Communication](#communication)
-  - [Multimedia](#multimedia)
-    - [Image](#image)
-    - [Audio](#audio)
-    - [Video](#video)
-  - [Utilities](#utilities)
-    - [Terminal Emulators](#terminal-emulators)
-    - [Files](#files)
-    - [Maintenance](#maintenance)
-  - [Documents](#documents)
-    - [Editors](#editors)
-    - [Office Suites](#office-suites)
-    - [Readers and Viewers](#readers-and-viewers)
-  - [Security](#security)
-    - [File Security](#file-security)
-    - [Anti Malware](#anti-malware)
-    - [Backup Programs](#backup-programs)
-    - [Password Managers](#password-managers)
-  - [Science](#science)
-    - [Mathematics](#mathematics)
-  - [Others](#others)
-    - [Finance](#finance)
-    - [Education](#education)
-    - [Time Management](#time-management)
 - [Customizations](#customizations)
-  - [Plasma Themes](#plasma-themes)
-  - [Plasma Widgets](#plasma-widgets)
-  - [Icon Themes](#icon-themes)
-  - [Cursor Themes](#cursor-themes)
-  - [Emoticons](#emoticons)
-- [Resources](#resources)
-  - [Communities](#communities)
-  - [Blogs](#blogs)
-  - [News](#news)
-  - [Wiki's](#wikis)
+- [Documentation](#documentation)
+- [Communities](#communities)
+- [Blogs](#blogs)
+- [News](#news)
 
 ---
 
@@ -132,27 +99,25 @@
 
 - [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
-## Resources
-
-### Communities
-
-- [Kreddit](https://www.reddit.com/r/kde/) - KDE Community on Reddit.
-- [KDE Store](https://store.kde.org/) - Official KDE Store for developers to share Plasma customizations. ![KDE Project][KDE Project]
-
-### Blogs
-
-- [Nico's Blog](https://nicolasfella.wordpress.com/) - Programmer from Germany, working on KDE.
-- [Planet KDE](https://planet.kde.org/) - Blogs of KDE contributors. ![KDE Project][KDE Project]
-
-### News
-
-- [KDE.news](https://dot.kde.org/) - The official KDE news website. ![KDE Project][KDE Project]
-- [Phoronix](https://www.phoronix.com/scan.php?page=news_topic&q=KDE) - Phoronix KDE News Archives.
-
-### Wiki's
+## Documentation
 
 - [KDE Wikis](https://wiki.kde.org/) - The KDE wikis are a source of information and documentation for the KDE desktop, applications, teams, events and more. ![KDE Project][KDE Project]
 - [ArchWiki](https://wiki.archlinux.org/index.php/KDE) - Arch Linux KDE Wiki.
 - [Gentoo Wiki](https://wiki.gentoo.org/wiki/KDE) - Gentoo KDE Wiki.
+
+## Communities
+
+- [Kreddit](https://www.reddit.com/r/kde/) - KDE Community on Reddit.
+- [KDE Store](https://store.kde.org/) - Official KDE Store for developers to share Plasma customizations. ![KDE Project][KDE Project]
+
+## Blogs
+
+- [Nico's Blog](https://nicolasfella.wordpress.com/) - Programmer from Germany, working on KDE.
+- [Planet KDE](https://planet.kde.org/) - Blogs of KDE contributors. ![KDE Project][KDE Project]
+
+## News
+
+- [KDE.news](https://dot.kde.org/) - The official KDE news website. ![KDE Project][KDE Project]
+- [Phoronix](https://www.phoronix.com/scan.php?page=news_topic&q=KDE) - Phoronix KDE News Archives.
 
 [KDE Project]: images/icon-kde-grey.svg "KDE Project"
