@@ -20,14 +20,17 @@
 
 ## Applications
 
-### Documents
-
+### Develpment
 - [KDevelop](https://www.kdevelop.org/) - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP. ![KDE Project][KDE Project]
+- [Kompare](https://www.kde.org/applications/development/kompare/) - A diff/patch frontend. ![KDE Project][KDE Project]
+- [KTurtle](https://www.kde.org/applications/education/kturtle/) - An educational programming environment that aims to make learning how to program as easily as possible. ![KDE Project][KDE Project]
+- [Qt Designer](http://doc.qt.io/qt-5/qtdesigner-manual.html) - Qt tool for designing and building graphical user interfaces (GUIs) with Qt Widgets.
+
+### Documents
 - [Kate](https://www.kde.org/applications/utilities/kate/) - A multi-document, multi-view text editor by KDE. ![KDE Project][KDE Project]
 - [KWrite](https://www.kde.org/applications/utilities/kwrite) - A text editor by KDE, based on the KDE Frameworks editor component. ![KDE Project][KDE Project]
 - [Calligra](https://www.calligra.org/) - Includes efficient and capable office components. ![KDE Project][KDE Project]
 - [Okular](https://www.kde.org/applications/graphics/okular/) - An universal document viewer. ![KDE Project][KDE Project]
-- [Kompare](https://www.kde.org/applications/development/kompare/) - A diff/patch frontend. ![KDE Project][KDE Project]
 
 ### Graphics
 - [Gwenview](https://www.kde.org/applications/graphics/gwenview/) - A fast and easy to use image viewer by KDE. ![KDE Project][KDE Project]
@@ -58,6 +61,11 @@
 - [SMPlayer](https://www.smplayer.info/) - Media player with built-in codecs that can play virtually all video and audio formats.
 - [Elisa](https://community.kde.org/Elisa) - A music player developed by the KDE community that strives to be simple and nice to use. ![KDE Project][KDE Project]
 
+### Others
+- [KDEConnect](https://community.kde.org/KDEConnect) - A project to communicate across all your devices: receive your phone notifications on your desktop computer, control music playing on your desktop from your phone, or use your phone as a remote control for your desktop. ![KDE Project][KDE Project]
+- [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) - Reliable MTP client with minimalistic UI.
+- [Umbrello](https://umbrello.kde.org/) - UML Modeller is a Unified Modelling Language (UML) diagram program based on KDE Technology. ![KDE Project][KDE Project]
+
 ### Security
 
 - [KDE Wallet Manager](https://utils.kde.org/projects/kwalletmanager/) - Manage the passwords on KDE systems. The KDE wallet subsystem allows access and password management of every application that integrates with the KDE wallet. ![KDE Project][KDE Project]
@@ -72,6 +80,7 @@
 - [KDiskFree](https://www.kde.org/applications/system/kdiskfree/) - Displays the available file devices (hard drive partitions, drives, etc.) along with information on their capacity, free space, type and mount point. ![KDE Project][KDE Project]
 - [KInfoCenter](https://www.kde.org/applications/system/kinfocenter/) - An utility that provides detailed information about a computer system. ![KDE Project][KDE Project]
 - [Okteta](https://www.kde.org/applications/utilities/okteta/) - Hex Editor. ![KDE Project][KDE Project]
+- [KSystemLog](https://www.kde.org/applications/system/ksystemlog/) - A system log viewer tool. ![KDE Project][KDE Project]
 
 ## Customizations
 
