@@ -62,14 +62,16 @@
 - [Elisa](https://community.kde.org/Elisa) - A music player developed by the KDE community that strives to be simple and nice to use. ![KDE Project][KDE Project]
 
 ### Others
-- [KDEConnect](https://community.kde.org/KDEConnect) - A project to communicate across all your devices: receive your phone notifications on your desktop computer, control music playing on your desktop from your phone, or use your phone as a remote control for your desktop. ![KDE Project][KDE Project]
+- [KDEConnect](https://community.kde.org/KDEConnect) - A project to communicate across all your devices: receive your phone notifications on your desktop computer, control your desktop from your phone, etc. ![KDE Project][KDE Project]
 - [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) - Reliable MTP client with minimalistic UI.
 - [Umbrello](https://umbrello.kde.org/) - UML Modeller is a Unified Modelling Language (UML) diagram program based on KDE Technology. ![KDE Project][KDE Project]
+- [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak can be used to remind you to take a break now and then. ![KDE Project][KDE Project]
 
 ### Security
 
 - [KDE Wallet Manager](https://utils.kde.org/projects/kwalletmanager/) - Manage the passwords on KDE systems. The KDE wallet subsystem allows access and password management of every application that integrates with the KDE wallet. ![KDE Project][KDE Project]
 - [KeePassXC](https://keepassxc.org/) - Cross-platform community-driven port of Keepass password manager.
+- [QtPass](https://qtpass.org/) - A multi-platform GUI for [pass](https://www.passwordstore.org/).
 
 ### Utilities
 - [Konsole](https://www.kde.org/applications/system/konsole/) - Terminal emulator included in the KDE desktop. ![KDE Project][KDE Project]
@@ -81,6 +83,7 @@
 - [KInfoCenter](https://www.kde.org/applications/system/kinfocenter/) - An utility that provides detailed information about a computer system. ![KDE Project][KDE Project]
 - [Okteta](https://www.kde.org/applications/utilities/okteta/) - Hex Editor. ![KDE Project][KDE Project]
 - [KSystemLog](https://www.kde.org/applications/system/ksystemlog/) - A system log viewer tool. ![KDE Project][KDE Project]
+- [KFontview](https://docs.kde.org/trunk5/en/kde-workspace/kfontview/index.html) - An application to view and install different types of fonts. ![KDE Project][KDE Project]
 
 ## Customizations
 
