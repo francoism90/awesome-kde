@@ -2,7 +2,7 @@
 
 [<img src="images/logo-kde-grey.svg" align="right" width="144">](http://www.kde.org)
 
-> A curated list of KDE Plasma 5 [applications](#applications), [customizations](#customizations) and [resources](#resources).
+> A curated list of KDE Plasma 5 applications, customizations and resources.
 
 [Plasma](https://www.kde.org/plasma-desktop.php) is [KDE](https://www.kde.org)'s flagship product written in Qt, offering the most customizable desktop environment available. The KDE community has the driving goal of making it simple by default, and powerful when needed.
 
@@ -29,8 +29,8 @@
 ### Documents
 - [Kate](https://www.kde.org/applications/utilities/kate/) - A multi-document, multi-view text editor by KDE. ![KDE Project][KDE Project]
 - [KWrite](https://www.kde.org/applications/utilities/kwrite) - A text editor by KDE, based on the KDE Frameworks editor component. ![KDE Project][KDE Project]
-- [Calligra](https://www.calligra.org/) - Includes efficient and capable office components. ![KDE Project][KDE Project]
 - [Okular](https://www.kde.org/applications/graphics/okular/) - An universal document viewer. ![KDE Project][KDE Project]
+- [Calligra](https://www.calligra.org/) - Includes efficient and capable office components. ![KDE Project][KDE Project]
 
 ### Graphics
 - [Gwenview](https://www.kde.org/applications/graphics/gwenview/) - A fast and easy to use image viewer by KDE. ![KDE Project][KDE Project]
@@ -74,6 +74,7 @@
 - [QtPass](https://qtpass.org/) - A multi-platform GUI for [pass](https://www.passwordstore.org/).
 
 ### Utilities
+- [Discover](https://userbase.kde.org/Discover) - Intended for users and distros where the terminal isn't the optimal solution for installation of apps and add-ons or updates. ![KDE Project][KDE Project]
 - [Konsole](https://www.kde.org/applications/system/konsole/) - Terminal emulator included in the KDE desktop. ![KDE Project][KDE Project]
 - [Dolphin](https://userbase.kde.org/Dolphin) - File manager included in the KDE desktop. ![KDE Project][KDE Project]
 - [Ark](https://www.kde.org/applications/utilities/ark/) - Archiving Tool. ![KDE Project][KDE Project]
@@ -107,6 +108,7 @@
 - [KDE.news](https://dot.kde.org/) - The official KDE news website. ![KDE Project][KDE Project]
 - [Planet KDE](https://planet.kde.org/) - Blogs of KDE contributors. ![KDE Project][KDE Project]
 - [Phoronix](https://www.phoronix.com/scan.php?page=news_topic&q=KDE) - Phoronix KDE News Archives.
+- [Nate Graham's Blog](https://pointieststick.wordpress.com/) - Adventures in Linux and KDE.
 - [Nico's Blog](https://nicolasfella.wordpress.com/) - Programmer from Germany that is working on KDE.
 
 ## Communities
