@@ -21,6 +21,7 @@
 ## Applications
 
 ### Internet & Networking
+
 - [Falkon](https://community.kde.org/Incubator/Projects/Falkon) - QtWebEngine based cross-platform web browser. ![KDE Project][KDE Project]
 - [Konqueror](https://konqueror.org/) - Uses the KHTML rendering engine (and optionally Webkit) so it supports the latest web standards such as HTML5, Javascript, CSS3, and others. ![KDE Project][KDE Project]
 - [Qt WebBrowser](http://doc.qt.io/QtWebBrowser/) - Qt WebBrowser is a browser for embedded devices developed using the capabilities of Qt and Qt WebEngine. 
@@ -37,6 +38,7 @@
 - [KNetworkManager](https://userbase.kde.org/KNetworkManager) - A KDE client for the back end NetworkManager software. ![KDE Project][KDE Project]
 
 ### Graphics & Imaging
+
 - [Gwenview](https://www.kde.org/applications/graphics/gwenview/) - A fast and easy to use image viewer by KDE. ![KDE Project][KDE Project]
 - [Okular](https://www.kde.org/applications/graphics/okular/) - An universal document viewer. ![KDE Project][KDE Project]
 - [Spectacle](https://www.kde.org/applications/graphics/spectacle/) - An application for capturing desktop screenshots. ![KDE Project][KDE Project]
@@ -46,17 +48,20 @@
 - [KColorChooser](https://www.kde.org/applications/graphics/kcolorchooser/) - A simple application to select the color from the screen or from a pallete. ![KDE Project][KDE Project]
 
 ### Multimedia
+
 - [Amarok](https://amarok.kde.org/) - Amarok is a powerful music player for Linux, Unix and Windows with an intuitive interface. ![KDE Project][KDE Project]
 - [Kdenlive](https://www.kdenlive.org/) - A non-linear video editor for Linux using the MLT video framework.
 - [SMPlayer](https://www.smplayer.info/) - Media player with built-in codecs that can play virtually all video and audio formats.
 - [Elisa](https://community.kde.org/Elisa) - A music player developed by the KDE community that strives to be simple and nice to use. ![KDE Project][KDE Project]
 
 ### Office & Productivity
+
 - [Calligra](https://www.calligra.org/) - Includes efficient and capable office components. ![KDE Project][KDE Project]
 - [Kate](https://www.kde.org/applications/utilities/kate/) - A multi-document, multi-view text editor by KDE. ![KDE Project][KDE Project]
 - [KWrite](https://www.kde.org/applications/utilities/kwrite) - A text editor by KDE, based on the KDE Frameworks editor component. ![KDE Project][KDE Project]
 
 ### System Administration
+
 - [Dolphin](https://userbase.kde.org/Dolphin) - File manager included in the KDE desktop. ![KDE Project][KDE Project]
 - [Discover](https://userbase.kde.org/Discover) - Intended for users and distros where the terminal isn't the optimal solution for installation of apps and add-ons or updates. ![KDE Project][KDE Project]
 - [Konsole](https://www.kde.org/applications/system/konsole/) - Terminal emulator included in the KDE desktop. ![KDE Project][KDE Project]
@@ -67,6 +72,7 @@
 - [Sweeper](https://www.kde.org/applications/utilities/sweeper) - Sweeper helps to clean unwanted traces the user leaves on the system and to regain disk space removing unused temporary files. ![KDE Project][KDE Project]
 
 ### Utilities & Tools
+
 - [Ark](https://www.kde.org/applications/utilities/ark/) - Archiving Tool. ![KDE Project][KDE Project]
 - [KFind](https://www.kde.org/applications/utilities/kfind/) - A standalone search tool, launched by KRunner or from your menu. It is also integrated into Konqueror as "Find File" in the "Tools" menu. ![KDE Project][KDE Project]
 - [KFontview](https://docs.kde.org/trunk5/en/kde-workspace/kfontview/index.html) - An application to view and install different types of fonts. ![KDE Project][KDE Project]
@@ -77,6 +83,7 @@
 - [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak can be used to remind you to take a break now and then. ![KDE Project][KDE Project]
 
 ### Development & Programming
+
 - [KDevelop](https://www.kdevelop.org/) - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP. ![KDE Project][KDE Project]
 - [Kompare](https://www.kde.org/applications/development/kompare/) - A diff/patch frontend. ![KDE Project][KDE Project]
 - [KTurtle](https://www.kde.org/applications/education/kturtle/) - An educational programming environment that aims to make learning how to program as easily as possible. ![KDE Project][KDE Project]
@@ -91,10 +98,21 @@
 - [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde) - A port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras.
 - [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
 - [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras.
+- [Helium](https://store.kde.org/p/998869/) - A translucent theme for Plasma 5.
 
 ### Icon Themes
 
 - [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+- [Antu-icons](https://gitlab.com/froodo_alexis/Antu-icons) - A smooth icon theme designed for Plasma Desktop.
+
+### Cursors
+
+- [Bibata](https://store.kde.org/p/1197198/) - Material Based Cursor Theme.
+
+### Others
+
+- [Latte-Dock](https://github.com/psifidotos/Latte-Dock) - 
+Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids. ![KDE Project][KDE Project]
 
 ## Documentation
 
