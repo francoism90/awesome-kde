@@ -1,6 +1,6 @@
 # Awesome KDE [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="images/logo-kde-grey.svg" align="right" width="144">](http://www.kde.org)
+[<img src="media/logo-kde-grey.svg" align="right" width="144">](http://www.kde.org)
 
 > A curated list of KDE Plasma 5 applications, customizations and resources.
 
@@ -134,4 +134,8 @@ Latte is a dock based on plasma frameworks that provides an elegant and intuitiv
 - [KDE Store](https://store.kde.org/) - Official KDE Store for developers to share Plasma customizations. ![KDE Project][KDE Project]
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/kde) - Questions tagged with `kde`.
 
-[KDE Project]: images/icon-kde-grey.svg "KDE Project"
+[KDE Project]: media/icon-kde-grey.svg "KDE Project"
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
