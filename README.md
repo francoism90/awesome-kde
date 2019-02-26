@@ -11,8 +11,7 @@
 ## Contents
 
 - [Applications](#applications)
-- [Modules](#modules)
-- [Customizations](#customizations)
+- [Customization](#customization)
 - [Documentation](#documentation)
 - [Articles](#articles)
 - [Communities](#communities)
@@ -92,11 +91,7 @@
 - [Umbrello](https://umbrello.kde.org/) - UML Modeller is a Unified Modelling Language (UML) diagram program based on KDE Technology 📌.
 - [Okteta](https://www.kde.org/applications/utilities/okteta/) - Hex Editor 📌.
 
-## Modules
-
-- [kded_rotation](https://github.com/dos1/kded_rotation) - A small, hacky KDED module for handling automatic screen rotation on tablets and hybrid laptops.
-
-## Customizations
+## Customization
 
 ### Plasma desktop
 
@@ -105,12 +100,22 @@
 - [Latte-Dock](https://github.com/psifidotos/Latte-Dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids 📌.
 - [Kvantum](https://github.com/tsujan/Kvantum/tree/master/Kvantum) - A SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
 
+#### KCM Modules and Systems
+
+- [kde-gtk-config](https://cgit.kde.org/kde-gtk-config.git) - GTK2 and GTK3 Configurator for KDE 📌.
+- [kcm-wacomtablet](https://cgit.kde.org/wacomtablet.git) - KDE GUI for the Wacom Linux Drivers 📌.
+- [kded_rotation](https://github.com/dos1/kded_rotation) - A small, hacky KDED module for handling automatic screen rotation on tablets and hybrid laptops.
+
 #### Themes
 
 - [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde) - A port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras.
 - [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
 - [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras.
 - [Helium](https://store.kde.org/p/998869/) - A translucent theme for Plasma 5.
+
+##### Qt and GTK+ Applications Appearance
+
+- [breeze-gtk](https://github.com/KDE/breeze-gtk) - A GTK Theme Built to Match KDE's Breeze 📌.
 
 #### Icons
 
