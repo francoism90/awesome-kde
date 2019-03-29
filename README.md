@@ -81,6 +81,7 @@
 - [QtPass](https://qtpass.org/) - A multi-platform GUI for [pass](https://www.passwordstore.org/).
 - [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) - Reliable MTP client with minimalistic UI.
 - [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak can be used to remind you to take a break now and then 📌.
+- [KRename](https://userbase.kde.org/KRename) - A utility to rename multiple files 📌.
 
 ### Development & Programming
 
