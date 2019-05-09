@@ -33,14 +33,14 @@
 - [KDEConnect](https://community.kde.org/KDEConnect) - A project to communicate across all your devices: receive your phone notifications on your desktop computer, control your desktop from your phone, etc 📌.
 - [Plasma-browser-integration](https://userbase.kde.org/Plasma-browser-integration) - A suite of new features which make [Firefox](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/), [Chrome](https://chrome.google.com/webstore/detail/plasma-integration/cimiefiiaegbelhefglklhhakcgmhkai) and Chromium-based browsers work with your desktop 📌.
 - [KRDC](https://www.kde.org/applications/internet/krdc/) - A client application that allows you to view or control a desktop session on another machine that is running a compatible server (VNC & RDP) 📌.
-- [Konversation](https://konversation.kde.org/) - An user-friendly Internet Relay Chat (IRC) client built on the KDE Platform 📌.
+- [Konversation](https://konversation.kde.org/) - A user-friendly Internet Relay Chat (IRC) client built on the KDE Platform 📌.
 - [Akregator](https://www.kde.org/applications/internet/akregator/) - Enables you to follow news sites, blogs and other RSS/Atom-enabled websites 📌.
 - [KNetworkManager](https://userbase.kde.org/KNetworkManager) - A KDE client for the back end NetworkManager software 📌.
 
 ### Graphics & Imaging
 
 - [Gwenview](https://www.kde.org/applications/graphics/gwenview/) - A fast and easy to use image viewer by KDE 📌.
-- [Okular](https://www.kde.org/applications/graphics/okular/) - An universal document viewer 📌.
+- [Okular](https://www.kde.org/applications/graphics/okular/) - A universal document viewer 📌.
 - [Spectacle](https://www.kde.org/applications/graphics/spectacle/) - An application for capturing desktop screenshots 📌.
 - [KolourPaint](https://www.kde.org/applications/graphics/kolourpaint/) - A simple painting program to quickly create raster images. It is useful as a touch-up tool and simple image editing tasks 📌.
 - [Krita](https://www.kde.org/applications/graphics/krita/) - Painting tool designed for concept artists, illustrators, matte and texture artists, and the VFX industry 📌.
@@ -67,7 +67,7 @@
 - [Konsole](https://www.kde.org/applications/system/konsole/) - Terminal emulator included in the KDE desktop 📌.
 - [Yakuake](https://userbase.kde.org/Yakuake) - A drop-down terminal emulator based on KDE's Konsole technology 📌.
 - [KDiskFree](https://www.kde.org/applications/system/kdiskfree/) - Displays the available file devices (hard drive partitions, drives, etc.) along with information on their capacity, free space, type and mount point 📌.
-- [KInfoCenter](https://www.kde.org/applications/system/kinfocenter/) - An utility that provides detailed information about a computer system 📌.
+- [KInfoCenter](https://www.kde.org/applications/system/kinfocenter/) - A utility that provides detailed information about a computer system 📌.
 - [KSystemLog](https://www.kde.org/applications/system/ksystemlog/) - A system log viewer tool 📌.
 - [Sweeper](https://www.kde.org/applications/utilities/sweeper) - Sweeper helps to clean unwanted traces the user leaves on the system and to regain disk space removing unused temporary files 📌.
 
@@ -87,7 +87,7 @@
 
 - [KDevelop](https://www.kdevelop.org/) - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP 📌.
 - [Kompare](https://www.kde.org/applications/development/kompare/) - A diff/patch frontend 📌.
-- [KTurtle](https://www.kde.org/applications/education/kturtle/) - An educational programming environment that aims to make learning how to program as easily as possible 📌.
+- [KTurtle](https://www.kde.org/applications/education/kturtle/) - An educational programming environment that aims to make learning how to program as easy as possible 📌.
 - [Qt Designer](http://doc.qt.io/qt-5/qtdesigner-manual.html) - Qt tool for designing and building graphical user interfaces (GUIs) with Qt Widgets.
 - [Umbrello](https://umbrello.kde.org/) - UML Modeller is a Unified Modelling Language (UML) diagram program based on KDE Technology 📌.
 - [Okteta](https://www.kde.org/applications/utilities/okteta/) - Hex Editor 📌.
@@ -99,7 +99,7 @@
 #### Extensions
 
 - [Latte-Dock](https://github.com/psifidotos/Latte-Dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids 📌.
-- [Kvantum](https://github.com/tsujan/Kvantum/tree/master/Kvantum) - A SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
+- [Kvantum](https://github.com/tsujan/Kvantum/tree/master/Kvantum) - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
 
 #### KCM Modules and Systems
 
