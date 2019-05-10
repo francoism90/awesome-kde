@@ -146,6 +146,7 @@
 - [Phoronix](https://www.phoronix.com/scan.php?page=news_topic&q=KDE) - Phoronix KDE News Archives.
 - [Nate Graham's Blog](https://pointieststick.wordpress.com/) - Adventures in Linux and KDE.
 - [Nico's Blog](https://nicolasfella.wordpress.com/) - Programmer from Germany that is working on KDE.
+- [Kai Uwe's Blog](https://blog.broulik.de/) - Stories of a Plasma developer.
 
 ## Communities
 
