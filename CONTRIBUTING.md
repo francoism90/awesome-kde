@@ -14,7 +14,7 @@ Ensure your pull request adheres to the following guidelines:
 - Please check your grammar and spelling as much as possible.
 - Make sure your text editor is setup correctly and doesn't adjust spaces and/or tabs.
 - Improvements and additions to the existing content are always welcome.
-- The application should follow enough of the [KDE Visual Design Group/HIG](https://community.kde.org/KDE_Visual_Design_Group/HIG).
+- The application should follow enough of the [KDE Visual Design Group/HIG](https://hig.kde.org/).
 - Please avoid unmaintained items. 
 - Please label official KDE Projects.
 
