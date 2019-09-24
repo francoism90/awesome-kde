@@ -36,6 +36,7 @@
 - [Konversation](https://konversation.kde.org/) - A user-friendly Internet Relay Chat (IRC) client built on the KDE Platform 📌.
 - [Akregator](https://www.kde.org/applications/internet/akregator/) - Enables you to follow news sites, blogs and other RSS/Atom-enabled websites 📌.
 - [KNetworkManager](https://userbase.kde.org/KNetworkManager) - A KDE client for the back end NetworkManager software 📌.
+- [Smb4K](https://sourceforge.net/projects/smb4k/) - Advanced Network Neighborhood Browser and Samba Share Mounting Utility 📌.
 
 ### Graphics & Imaging
 
