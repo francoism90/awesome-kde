@@ -31,7 +31,8 @@
 - [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - A BitTorrent application which allows you to download files using the BitTorrent protocol 📌.
 - [qBittorrent](https://www.qbittorrent.org/) - An advanced BitTorrent client programmed in C++, based on Qt toolkit and libtorrent-rasterbar.
 - [KMail](https://www.kde.org/applications/internet/kmail/) - KMail is the email component of Kontact, the integrated personal information manager from KDE 📌.
-- [KDEConnect](https://community.kde.org/KDEConnect) - A project to communicate across all your devices: receive your phone notifications on your desktop computer, control your desktop from your phone, etc 📌.
+- [KDE Connect](https://community.kde.org/KDEConnect) - A project to communicate across all your devices: receive your phone notifications on your desktop computer, control your desktop from your phone, etc 📌.
+- [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) - A complete implementation of KDE Connect especially for GNOME Shell with Nautilus, Chrome and Firefox integration.
 - [Plasma-browser-integration](https://userbase.kde.org/Plasma-browser-integration) - A suite of new features which make [Firefox](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/), [Chrome](https://chrome.google.com/webstore/detail/plasma-integration/cimiefiiaegbelhefglklhhakcgmhkai) and Chromium-based browsers work with your desktop 📌.
 - [KRDC](https://www.kde.org/applications/internet/krdc/) - A client application that allows you to view or control a desktop session on another machine that is running a compatible server (VNC & RDP) 📌.
 - [Konversation](https://konversation.kde.org/) - A user-friendly Internet Relay Chat (IRC) client built on the KDE Platform 📌.
@@ -56,7 +57,7 @@
 - [SMPlayer](https://www.smplayer.info/) - Media player with built-in codecs that can play virtually all video and audio formats.
 - [Elisa](https://community.kde.org/Elisa) - A music player developed by the KDE community that strives to be simple and nice to use 📌.
 - [KMix](https://kde.org/applications/multimedia/org.kde.kmix) - A sound channel mixer and volume control 📌.
-- [KWave](http://kwave.sourceforge.net/) - A sound editor built on the KDE Frameworks 5.
+- [KWave](http://kwave.sourceforge.net/) - A sound editor built on the KDE Frameworks 5 📌.
 
 ### Office & Productivity
 
