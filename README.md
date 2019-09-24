@@ -115,6 +115,7 @@
 - [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
 - [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras.
 - [Helium](https://store.kde.org/p/998869/) - A translucent theme for Plasma 5.
+- [Breath](https://gitlab.manjaro.org/artwork/themes/breath) - Breath Theme for Manjaro Linux (Plasma 5).
 
 ##### Qt and GTK+ Applications Appearance
 
