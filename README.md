@@ -26,6 +26,7 @@
 - [Konqueror](https://konqueror.org/) - Uses the KHTML rendering engine (and optionally Webkit) so it supports the latest web standards such as HTML5, JavaScript, CSS3, and others 📌.
 - [Qt WebBrowser](http://doc.qt.io/QtWebBrowser/) - Qt WebBrowser is a browser for embedded devices developed using the capabilities of Qt and Qt WebEngine.
 - [Otter Browser](https://otter-browser.org/) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.
+- [Firefox KDE](https://build.opensuse.org/package/show/mozilla:Factory/MozillaFirefox) - Standalone web browser from mozilla.org with OpenSUSE patch, integrate better with KDE.
 - [KGet](https://www.kde.org/applications/internet/kget/) - A versatile and user-friendly download manager 📌.
 - [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - A BitTorrent application which allows you to download files using the BitTorrent protocol 📌.
 - [qBittorrent](https://www.qbittorrent.org/) - An advanced BitTorrent client programmed in C++, based on Qt toolkit and libtorrent-rasterbar.
