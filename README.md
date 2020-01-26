@@ -75,6 +75,8 @@
 - [KInfoCenter](https://www.kde.org/applications/system/kinfocenter/) - A utility that provides detailed information about a computer system 📌.
 - [KSystemLog](https://www.kde.org/applications/system/ksystemlog/) - A system log viewer tool 📌.
 - [Sweeper](https://www.kde.org/applications/utilities/sweeper) - Sweeper helps to clean unwanted traces the user leaves on the system and to regain disk space removing unused temporary files 📌.
+- [Kup](https://github.com/spersson/Kup) - A backup scheduler for KDE's Plasma desktop.
+- [Krusader](https://krusader.org/) - An advanced twin panel (commander style) file manager for KDE 📌.
 
 ### Utilities & Tools
 
@@ -88,15 +90,21 @@
 - [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak can be used to remind you to take a break now and then 📌.
 - [KRename](https://userbase.kde.org/KRename) - A utility to rename multiple files 📌.
 - [KWin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) - An attempt to reduce latency and stuttering in the popular KWin compositor used in KDE.
+- [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) - Auto Night-mode for Linux.
+- [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) - GUI for fancontrol which is part of lm_sensors.
 
 ### Development & Programming
 
 - [KDevelop](https://www.kdevelop.org/) - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP 📌.
 - [Kompare](https://www.kde.org/applications/development/kompare/) - A diff/patch frontend 📌.
-- [KTurtle](https://www.kde.org/applications/education/kturtle/) - An educational programming environment that aims to make learning how to program as easy as possible 📌.
 - [Qt Designer](http://doc.qt.io/qt-5/qtdesigner-manual.html) - Qt tool for designing and building graphical user interfaces (GUIs) with Qt Widgets.
 - [Umbrello](https://umbrello.kde.org/) - UML Modeller is a Unified Modelling Language (UML) diagram program based on KDE Technology 📌.
 - [Okteta](https://www.kde.org/applications/utilities/okteta/) - Hex Editor 📌.
+
+### Education
+
+- [KTurtle](https://www.kde.org/applications/education/kturtle/) - An educational programming environment that aims to make learning how to program as easy as possible 📌.
+- [LabPlot](https://labplot.kde.org/) - Interactive graphing and analysis of scientific data 📌.
 
 ## Customization
 
@@ -120,16 +128,28 @@
 - [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras.
 - [Helium](https://store.kde.org/p/998869/) - A translucent theme for Plasma 5.
 - [Breath](https://gitlab.manjaro.org/artwork/themes/breath) - Breath Theme for Manjaro Linux (Plasma 5).
+- [Hello](https://github.com/n4n0GH/hello) - A compilation of various color-schemes, themes, icons and more for the KDE Plasma desktop. It is unopinionated, putting you in charge.
+- [McMojave](https://github.com/vinceliuice/McMojave-kde) - A MacOSX Mojave like theme for KDE Plasma desktop.
 
 ##### Qt and GTK+ Applications Appearance
 
 - [breeze-gtk](https://github.com/KDE/breeze-gtk) - A GTK Theme Built to Match KDE's Breeze 📌.
+- [Breeze10](https://github.com/fauzie811/Breeze10) - A Windows 10 style windows decoration for KDE Plasma.
+- [SierraBreeze](https://github.com/ishovkun/SierraBreeze) - OSX-like window decoration for KDE Plasma written in C++.
+- [Akava-Kv](https://github.com/Akava-Design/Akava-Kv) - User oriented Kvantum theme for KDE.
+- [BreezeBlurred](https://github.com/alex47/BreezeBlurred) - A fork of KDE Breeze window decoration written in Qt C++.
+- [BreezeEnhanced](https://github.com/tsujan/BreezeEnhanced) - A fork of KDE Breeze decoration with additional options.
+- [KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) -
+Rounds the corners of your windows.
+- [Sweet-kde](https://github.com/EliverLara/Sweet-kde) - A dark and modern theme for KDE plasma.
 
 #### Icons
 
 - [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 - [Antu](https://gitlab.com/froodo_alexis/Antu-icons) - A smooth icon theme designed for Plasma Desktop.
 - [Zafiro](https://github.com/zayronxio/Zafiro-icons) - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
+- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
+- [Tela](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme.
 
 #### Cursors
 
@@ -139,6 +159,13 @@
 #### Scripts
 
 - [kwin-tiling](https://github.com/faho/kwin-tiling) - Tiling script for kwin.
+- [Grid-Tiling-Kwin](https://github.com/lingtjien/Grid-Tiling-Kwin) - A kwin script that automatically tiles windows.
+- [Kröhnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin.
+
+#### Display Manager
+
+- [Chili](https://github.com/MarianArlt/kde-plasma-chili) - The hottest login theme around for KDE Plasma 5.
+- [Delicious](https://github.com/stuomas/delicious-sddm-theme) - A delicious SDDM theme for DE collectors/addicts.
 
 ## Documentation
 
