@@ -64,6 +64,8 @@
 - [Calligra](https://www.calligra.org/) - Includes efficient and capable office components 📌.
 - [Kate](https://www.kde.org/applications/utilities/kate/) - A multi-document, multi-view text editor by KDE 📌.
 - [KWrite](https://www.kde.org/applications/utilities/kwrite) - A text editor by KDE, based on the KDE Frameworks editor component 📌.
+- [Kronometer](https://userbase.kde.org/Kronometer) A stopwatch application for KDE 📌.
+- [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak can be used to remind you to take a break now and then 📌.
 
 ### System Administration
 
@@ -87,11 +89,11 @@
 - [KeePassXC](https://keepassxc.org/) - Cross-platform community-driven port of Keepass password manager.
 - [QtPass](https://qtpass.org/) - A multi-platform GUI for [pass](https://www.passwordstore.org/).
 - [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) - Reliable MTP client with minimalistic UI.
-- [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak can be used to remind you to take a break now and then 📌.
 - [KRename](https://userbase.kde.org/KRename) - A utility to rename multiple files 📌.
 - [KWin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) - An attempt to reduce latency and stuttering in the popular KWin compositor used in KDE.
 - [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) - Auto Night-mode for Linux.
 - [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) - GUI for fancontrol which is part of lm_sensors.
+- [Wacom GUI](https://github.com/tb2097/wacom-gui) - Python/PyQt Wacom GUI for KDE.
 
 ### Development & Programming
 
@@ -130,6 +132,10 @@
 - [Breath](https://gitlab.manjaro.org/artwork/themes/breath) - Breath Theme for Manjaro Linux (Plasma 5).
 - [Hello](https://github.com/n4n0GH/hello) - A compilation of various color-schemes, themes, icons and more for the KDE Plasma desktop. It is unopinionated, putting you in charge.
 - [McMojave](https://github.com/vinceliuice/McMojave-kde) - A MacOSX Mojave like theme for KDE Plasma desktop.
+- [Canta](https://github.com/vinceliuice/Canta-kde) - A flat design theme for KDE Plasma desktop.
+- [Darkine KDE](https://github.com/Rokin05/darkine-kde) - Theme for KDE Plasma 5 desktop, SDDM and more.
+- [Qogir](https://github.com/vinceliuice/Qogir-kde) - A flat design theme for KDE Plasma desktop.
+- [Layan](https://github.com/vinceliuice/Layan-kde) - A flat design theme for KDE Plasma desktop.
 
 ##### Qt and GTK+ Applications Appearance
 
@@ -142,6 +148,8 @@
 - [KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) -
 Rounds the corners of your windows.
 - [Sweet-kde](https://github.com/EliverLara/Sweet-kde) - A dark and modern theme for KDE plasma.
+- [XBoomer](https://github.com/efskap/XBoomer) - XP Window Decorations for KDE Plasma.
+- [Chrome-KDE5BreezeDark](https://github.com/pdeljanov/Chrome-KDE5BreezeDark) - A theme for Chrome on KDE5 when using the Breeze Dark window decoration.
 
 #### Icons
 
