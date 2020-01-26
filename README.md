@@ -116,6 +116,10 @@
 
 - [Latte-Dock](https://github.com/psifidotos/Latte-Dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids 📌.
 - [Kvantum](https://github.com/tsujan/Kvantum/tree/master/Kvantum) - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
+- [Window Title Applet](https://github.com/psifidotos/applet-window-title/) - Plasma 5 applet that shows the current window title and icon in your panels.
+- [Hoppla](https://github.com/Fuchs/hoppla-sa) - KDE Plasma desktop widget to control Philips Hue lights.
+- [Places Widget](https://github.com/dfaust/plasma-applet-places-widget) - Plasma 5 widget that gives access to user places.
+- [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) - Plasma 5 applet in order to show the window appmenu.
 
 #### KCM Modules and Systems
 
@@ -137,7 +141,7 @@
 - [Qogir](https://github.com/vinceliuice/Qogir-kde) - A flat design theme for KDE Plasma desktop.
 - [Layan](https://github.com/vinceliuice/Layan-kde) - A flat design theme for KDE Plasma desktop.
 
-##### Qt and GTK+ Applications Appearance
+#### Qt and GTK+ Applications Appearance
 
 - [breeze-gtk](https://github.com/KDE/breeze-gtk) - A GTK Theme Built to Match KDE's Breeze 📌.
 - [Breeze10](https://github.com/fauzie811/Breeze10) - A Windows 10 style windows decoration for KDE Plasma.
@@ -147,7 +151,7 @@
 - [BreezeEnhanced](https://github.com/tsujan/BreezeEnhanced) - A fork of KDE Breeze decoration with additional options.
 - [KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) -
 Rounds the corners of your windows.
-- [Sweet-kde](https://github.com/EliverLara/Sweet-kde) - A dark and modern theme for KDE plasma.
+- [Sweet KDE](https://github.com/EliverLara/Sweet-kde) - A dark and modern theme for KDE plasma.
 - [XBoomer](https://github.com/efskap/XBoomer) - XP Window Decorations for KDE Plasma.
 - [Chrome-KDE5BreezeDark](https://github.com/pdeljanov/Chrome-KDE5BreezeDark) - A theme for Chrome on KDE5 when using the Breeze Dark window decoration.
 
@@ -158,6 +162,8 @@ Rounds the corners of your windows.
 - [Zafiro](https://github.com/zayronxio/Zafiro-icons) - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
 - [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
 - [Tela](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme.
+- [Flatery](https://github.com/cbrnix/Flatery) - Icon theme for Linux in flat style.
+- [Candy](https://github.com/EliverLara/candy-icons) - Sweet gradient icons.
 
 #### Cursors
 
@@ -174,6 +180,7 @@ Rounds the corners of your windows.
 
 - [Chili](https://github.com/MarianArlt/kde-plasma-chili) - The hottest login theme around for KDE Plasma 5.
 - [Delicious](https://github.com/stuomas/delicious-sddm-theme) - A delicious SDDM theme for DE collectors/addicts.
+- [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy) - The sweetest login theme available for the SDDM display manager.
 
 ## Documentation
 
