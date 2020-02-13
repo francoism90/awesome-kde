@@ -140,6 +140,7 @@
 - [Darkine KDE](https://github.com/Rokin05/darkine-kde) - Theme for KDE Plasma 5 desktop, SDDM and more.
 - [Qogir](https://github.com/vinceliuice/Qogir-kde) - A flat design theme for KDE Plasma desktop.
 - [Layan](https://github.com/vinceliuice/Layan-kde) - A flat design theme for KDE Plasma desktop.
+- [ChromeOS](https://github.com/vinceliuice/ChromeOS-kde) - A materia Design theme for KDE Plasma desktop.
 
 #### Qt and GTK+ Applications Appearance
 
