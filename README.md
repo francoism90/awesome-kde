@@ -189,6 +189,7 @@ Rounds the corners of your windows.
 - [KDE Wikis](https://wiki.kde.org/) - The KDE wikis are a source of information and documentation for the KDE desktop, applications, teams, events and more 📌.
 - [ArchWiki](https://wiki.archlinux.org/index.php/KDE) - Arch Linux KDE Wiki.
 - [Gentoo Wiki](https://wiki.gentoo.org/wiki/KDE) - Gentoo KDE Wiki.
+- [KDE Configs](https://github.com/shalva97/kde-configuration-files) - list of KDE configuration files and more.
 
 ## Articles
 
