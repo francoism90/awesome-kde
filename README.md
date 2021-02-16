@@ -22,7 +22,7 @@
 
 ### Internet & Networking
 
-- [Falkon](https://community.kde.org/Incubator/Projects/Falkon) - QtWebEngine based cross-platform web browser 📌.
+- [Falkon](https://www.falkon.org/) - QtWebEngine based cross-platform web browser 📌.
 - [Konqueror](https://konqueror.org/) - Uses the KHTML rendering engine (and optionally Webkit) so it supports the latest web standards such as HTML5, JavaScript, CSS3, and others 📌.
 - [Qt WebBrowser](http://doc.qt.io/QtWebBrowser/) - Qt WebBrowser is a browser for embedded devices developed using the capabilities of Qt and Qt WebEngine.
 - [Otter Browser](https://otter-browser.org/) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.
@@ -30,15 +30,15 @@
 - [KGet](https://www.kde.org/applications/internet/kget/) - A versatile and user-friendly download manager 📌.
 - [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - A BitTorrent application which allows you to download files using the BitTorrent protocol 📌.
 - [qBittorrent](https://www.qbittorrent.org/) - An advanced BitTorrent client programmed in C++, based on Qt toolkit and libtorrent-rasterbar.
-- [KMail](https://www.kde.org/applications/internet/kmail/) - KMail is the email component of Kontact, the integrated personal information manager from KDE 📌.
-- [KDE Connect](https://community.kde.org/KDEConnect) - A project to communicate across all your devices: receive your phone notifications on your desktop computer, control your desktop from your phone, etc 📌.
+- [KMail](https://apps.kde.org/en/kmail2) - KMail is the email component of Kontact, the integrated personal information manager from KDE 📌.
+- [KDE Connect](https://kdeconnect.kde.org/) - A project to communicate across all your devices: receive your phone notifications on your desktop computer, control your desktop from your phone, etc 📌.
 - [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) - A complete implementation of KDE Connect especially for GNOME Shell with Nautilus, Chrome and Firefox integration.
 - [Plasma-browser-integration](https://userbase.kde.org/Plasma-browser-integration) - A suite of new features which make [Firefox](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/), [Chrome](https://chrome.google.com/webstore/detail/plasma-integration/cimiefiiaegbelhefglklhhakcgmhkai) and Chromium-based browsers work with your desktop 📌.
 - [KRDC](https://www.kde.org/applications/internet/krdc/) - A client application that allows you to view or control a desktop session on another machine that is running a compatible server (VNC & RDP) 📌.
 - [Konversation](https://konversation.kde.org/) - A user-friendly Internet Relay Chat (IRC) client built on the KDE Platform 📌.
 - [Akregator](https://www.kde.org/applications/internet/akregator/) - Enables you to follow news sites, blogs and other RSS/Atom-enabled websites 📌.
 - [KNetworkManager](https://userbase.kde.org/KNetworkManager) - A KDE client for the back end NetworkManager software 📌.
-- [Smb4K](https://sourceforge.net/projects/smb4k/) - Advanced Network Neighborhood Browser and Samba Share Mounting Utility 📌.
+- [Smb4K](https://apps.kde.org/en/smb4k) - Advanced Network Neighborhood Browser and Samba Share Mounting Utility 📌.
 
 ### Graphics & Imaging
 
@@ -57,7 +57,7 @@
 - [SMPlayer](https://www.smplayer.info/) - Media player with built-in codecs that can play virtually all video and audio formats.
 - [Elisa](https://community.kde.org/Elisa) - A music player developed by the KDE community that strives to be simple and nice to use 📌.
 - [KMix](https://kde.org/applications/multimedia/org.kde.kmix) - A sound channel mixer and volume control 📌.
-- [KWave](http://kwave.sourceforge.net/) - A sound editor built on the KDE Frameworks 5 📌.
+- [KWave](https://apps.kde.org/en/kwave) - A sound editor built on the KDE Frameworks 5 📌.
 
 ### Office & Productivity
 
@@ -73,11 +73,11 @@
 - [Discover](https://userbase.kde.org/Discover) - Intended for users and distros where the terminal isn't the optimal solution for installation of apps and add-ons or updates 📌.
 - [Konsole](https://www.kde.org/applications/system/konsole/) - Terminal emulator included in the KDE desktop 📌.
 - [Yakuake](https://userbase.kde.org/Yakuake) - A drop-down terminal emulator based on KDE's Konsole technology 📌.
-- [KDiskFree](https://www.kde.org/applications/system/kdiskfree/) - Displays the available file devices (hard drive partitions, drives, etc.) along with information on their capacity, free space, type and mount point 📌.
-- [KInfoCenter](https://www.kde.org/applications/system/kinfocenter/) - A utility that provides detailed information about a computer system 📌.
+- [KDiskFree](https://apps.kde.org/en/kdf) - Displays the available file devices (hard drive partitions, drives, etc.) along with information on their capacity, free space, type and mount point 📌.
+- [KInfoCenter](https://userbase.kde.org/KInfoCenter) - A utility that provides detailed information about a computer system 📌.
 - [KSystemLog](https://www.kde.org/applications/system/ksystemlog/) - A system log viewer tool 📌.
 - [Sweeper](https://www.kde.org/applications/utilities/sweeper) - Sweeper helps to clean unwanted traces the user leaves on the system and to regain disk space removing unused temporary files 📌.
-- [Kup](https://github.com/spersson/Kup) - A backup scheduler for KDE's Plasma desktop.
+- [Kup](https://invent.kde.org/system/kup) - A backup scheduler for KDE's Plasma desktop 📌.
 - [Krusader](https://krusader.org/) - An advanced twin panel (commander style) file manager for KDE 📌.
 
 ### Utilities & Tools
@@ -91,6 +91,7 @@
 - [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) - Reliable MTP client with minimalistic UI.
 - [KRename](https://userbase.kde.org/KRename) - A utility to rename multiple files 📌.
 - [KWin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) - An attempt to reduce latency and stuttering in the popular KWin compositor used in KDE.
+- [KWinFT](https://gitlab.com/kwinft/kwinft) - Wayland compositor and X11 window manager.
 - [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) - Auto Night-mode for Linux.
 - [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) - GUI for fancontrol which is part of lm_sensors.
 - [Wacom GUI](https://github.com/tb2097/wacom-gui) - Python/PyQt Wacom GUI for KDE.
@@ -115,7 +116,7 @@
 #### Extensions
 
 - [Latte-Dock](https://github.com/psifidotos/Latte-Dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids 📌.
-- [Kvantum](https://github.com/tsujan/Kvantum/tree/master/Kvantum) - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
+- [Kvantum](https://github.com/tsujan/Kvantum) - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
 - [Window Title Applet](https://github.com/psifidotos/applet-window-title/) - Plasma 5 applet that shows the current window title and icon in your panels.
 - [Hoppla](https://github.com/Fuchs/hoppla-sa) - KDE Plasma desktop widget to control Philips Hue lights.
 - [Places Widget](https://github.com/dfaust/plasma-applet-places-widget) - Plasma 5 widget that gives access to user places.
@@ -124,8 +125,8 @@
 
 #### KCM Modules and Systems
 
-- [kde-gtk-config](https://cgit.kde.org/kde-gtk-config.git) - GTK2 and GTK3 Configurator for KDE 📌.
-- [kcm-wacomtablet](https://cgit.kde.org/wacomtablet.git) - KDE GUI for the Wacom Linux Drivers 📌.
+- [kde-gtk-config](https://invent.kde.org/plasma/kde-gtk-config) - GTK2 and GTK3 Configurator for KDE 📌.
+- [kcm-wacomtablet](https://apps.kde.org/en/wacomtablet) - KDE GUI for the Wacom Linux Drivers 📌.
 - [kded_rotation](https://github.com/dos1/kded_rotation) - A small, hacky KDED module for handling automatic screen rotation on tablets and hybrid laptops.
 
 #### Themes
