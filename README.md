@@ -55,6 +55,7 @@
 - [Amarok](https://amarok.kde.org/) - Amarok is a powerful music player for Linux, Unix and Windows with an intuitive interface 📌.
 - [Kdenlive](https://www.kdenlive.org/) - A non-linear video editor for Linux using the MLT video framework.
 - [SMPlayer](https://www.smplayer.info/) - Media player with built-in codecs that can play virtually all video and audio formats.
+- [VLC](https://www.videolan.org/vlc/) - A free and open source cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols.
 - [Elisa](https://community.kde.org/Elisa) - A music player developed by the KDE community that strives to be simple and nice to use 📌.
 - [KMix](https://kde.org/applications/multimedia/org.kde.kmix) - A sound channel mixer and volume control 📌.
 - [KWave](https://apps.kde.org/en/kwave) - A sound editor built on the KDE Frameworks 5 📌.
@@ -110,6 +111,8 @@
 - [LabPlot](https://labplot.kde.org/) - Interactive graphing and analysis of scientific data 📌.
 
 ## Customization
+
+Note: Customizations quickly become outdated, it is recommended to look in the [KDE Store](https://store.kde.org/browse/) or use [Discover](https://userbase.kde.org/Discover) instead.
 
 ### Plasma desktop
 
