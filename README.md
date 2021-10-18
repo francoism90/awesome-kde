@@ -118,7 +118,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Extensions
 
-- [Latte-Dock](https://github.com/psifidotos/Latte-Dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids 📌.
+- [Latte-Dock](https://invent.kde.org/plasma/latte-dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids 📌.
 - [Kvantum](https://github.com/tsujan/Kvantum) - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
 - [Window Title Applet](https://github.com/psifidotos/applet-window-title/) - Plasma 5 applet that shows the current window title and icon in your panels.
 - [Hoppla](https://github.com/Fuchs/hoppla-sa) - KDE Plasma desktop widget to control Philips Hue lights.
