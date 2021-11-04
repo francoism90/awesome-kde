@@ -6,7 +6,7 @@
 
 [KDE](https://kde.org/) is a free software community dedicated to creating an open and user-friendly computing experience, offering an advanced graphical desktop, a wide variety of applications for communication, work, education and entertainment and a platform to easily build new applications upon.
 
-> Items marked with 📌 (push pin) are projects hosted on KDE's own infrastructure and developed by the KDE community.
+> Items marked with 📌 (pushpin) are projects hosted on KDE's own infrastructure and developed by the KDE community.
 
 ## Contents
 
@@ -20,6 +20,8 @@
 
 ## Applications
 
+Tip: An overview of the most used KDE community apps are listed on the [official website](https://apps.kde.org/).
+
 ### Internet & Networking
 
 - [Falkon](https://www.falkon.org/) - QtWebEngine based cross-platform web browser 📌.
@@ -27,16 +29,16 @@
 - [Qt WebBrowser](http://doc.qt.io/QtWebBrowser/) - Qt WebBrowser is a browser for embedded devices developed using the capabilities of Qt and Qt WebEngine.
 - [Otter Browser](https://otter-browser.org/) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.
 - [Firefox KDE](https://build.opensuse.org/package/show/mozilla:Factory/MozillaFirefox) - Standalone web browser from mozilla.org with OpenSUSE patch, integrate better with KDE.
-- [KGet](https://www.kde.org/applications/internet/kget/) - A versatile and user-friendly download manager 📌.
-- [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - A BitTorrent application which allows you to download files using the BitTorrent protocol 📌.
+- [KGet](https://apps.kde.org/kget/) - A versatile and user-friendly download manager 📌.
+- [KTorrent](https://apps.kde.org/ktorrent/) - A BitTorrent application which allows you to download files using the BitTorrent protocol 📌.
 - [qBittorrent](https://www.qbittorrent.org/) - An advanced BitTorrent client programmed in C++, based on Qt toolkit and libtorrent-rasterbar.
-- [KMail](https://apps.kde.org/en/kmail2) - KMail is the email component of Kontact, the integrated personal information manager from KDE 📌.
+- [KMail](https://apps.kde.org/kmail2/) - KMail is the email component of Kontact, the integrated personal information manager from KDE 📌.
 - [KDE Connect](https://kdeconnect.kde.org/) - A project to communicate across all your devices: receive your phone notifications on your desktop computer, control your desktop from your phone, etc 📌.
 - [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) - A complete implementation of KDE Connect especially for GNOME Shell with Nautilus, Chrome and Firefox integration.
 - [Plasma-browser-integration](https://userbase.kde.org/Plasma-browser-integration) - A suite of new features which make [Firefox](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/), [Chrome](https://chrome.google.com/webstore/detail/plasma-integration/cimiefiiaegbelhefglklhhakcgmhkai) and Chromium-based browsers work with your desktop 📌.
-- [KRDC](https://www.kde.org/applications/internet/krdc/) - A client application that allows you to view or control a desktop session on another machine that is running a compatible server (VNC & RDP) 📌.
+- [KRDC](https://apps.kde.org/krdc/) - A client application that allows you to view or control a desktop session on another machine that is running a compatible server (VNC & RDP) 📌.
 - [Konversation](https://konversation.kde.org/) - A user-friendly Internet Relay Chat (IRC) client built on the KDE Platform 📌.
-- [Akregator](https://www.kde.org/applications/internet/akregator/) - Enables you to follow news sites, blogs and other RSS/Atom-enabled websites 📌.
+- [Akregator](https://apps.kde.org/akregator/) - Enables you to follow news sites, blogs and other RSS/Atom-enabled websites 📌.
 - [KNetworkManager](https://userbase.kde.org/KNetworkManager) - A KDE client for the back end NetworkManager software 📌.
 - [Smb4K](https://apps.kde.org/en/smb4k) - Advanced Network Neighborhood Browser and Samba Share Mounting Utility 📌.
 
@@ -157,7 +159,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 - [BreezeBlurred](https://github.com/alex47/BreezeBlurred) - A fork of KDE Breeze window decoration written in Qt C++.
 - [BreezeEnhanced](https://github.com/tsujan/BreezeEnhanced) - A fork of KDE Breeze decoration with additional options.
 - [KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) -
-Rounds the corners of your windows.
+  Rounds the corners of your windows.
 - [Sweet KDE](https://github.com/EliverLara/Sweet-kde) - A dark and modern theme for KDE plasma.
 - [XBoomer](https://github.com/efskap/XBoomer) - XP Window Decorations for KDE Plasma.
 - [Chrome-KDE5BreezeDark](https://github.com/pdeljanov/Chrome-KDE5BreezeDark) - A theme for Chrome on KDE5 when using the Breeze Dark window decoration.
