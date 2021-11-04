@@ -54,6 +54,7 @@
 
 - [Amarok](https://amarok.kde.org/) - Amarok is a powerful music player for Linux, Unix and Windows with an intuitive interface 📌.
 - [Kdenlive](https://www.kdenlive.org/) - A non-linear video editor for Linux using the MLT video framework.
+- [Haruna](https://invent.kde.org/multimedia/haruna) - Open source video player built with Qt/QML and libmpv 📌.
 - [SMPlayer](https://www.smplayer.info/) - Media player with built-in codecs that can play virtually all video and audio formats.
 - [VLC](https://www.videolan.org/vlc/) - A free and open source cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols.
 - [Elisa](https://community.kde.org/Elisa) - A music player developed by the KDE community that strives to be simple and nice to use 📌.
