@@ -44,13 +44,13 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 
 ### Graphics & Imaging
 
-- [Gwenview](https://www.kde.org/applications/graphics/gwenview/) - A fast and easy to use image viewer by KDE 📌.
-- [Okular](https://www.kde.org/applications/graphics/okular/) - A universal document viewer 📌.
-- [Spectacle](https://www.kde.org/applications/graphics/spectacle/) - An application for capturing desktop screenshots 📌.
-- [KolourPaint](https://www.kde.org/applications/graphics/kolourpaint/) - A simple painting program to quickly create raster images. It is useful as a touch-up tool and simple image editing tasks 📌.
-- [Krita](https://www.kde.org/applications/graphics/krita/) - Painting tool designed for concept artists, illustrators, matte and texture artists, and the VFX industry 📌.
+- [Gwenview](https://apps.kde.org/gwenview/) - A fast and easy to use image viewer by KDE 📌.
+- [Okular](https://apps.kde.org/okular/) - A universal document viewer 📌.
+- [Spectacle](https://apps.kde.org/spectacle/) - An application for capturing desktop screenshots 📌.
+- [KolourPaint](https://apps.kde.org/kolourpaint/) - A simple painting program to quickly create raster images. It is useful as a touch-up tool and simple image editing tasks 📌.
+- [Krita](https://apps.kde.org/krita/) - Painting tool designed for concept artists, illustrators, matte and texture artists, and the VFX industry 📌.
 - [digiKam](https://www.digikam.org/) - Professional Photo Management with the Power of Open Source 📌.
-- [KColorChooser](https://www.kde.org/applications/graphics/kcolorchooser/) - A simple application to select the color from the screen or from a pallete 📌.
+- [KColorChooser](https://apps.kde.org/kcolorchooser/) - A simple application to select the color from the screen or from a pallete 📌.
 
 ### Multimedia
 
@@ -59,29 +59,29 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 - [Haruna](https://invent.kde.org/multimedia/haruna) - Open source video player built with Qt/QML and libmpv 📌.
 - [SMPlayer](https://www.smplayer.info/) - Media player with built-in codecs that can play virtually all video and audio formats.
 - [VLC](https://www.videolan.org/vlc/) - A free and open source cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols.
-- [Elisa](https://community.kde.org/Elisa) - A music player developed by the KDE community that strives to be simple and nice to use 📌.
-- [KMix](https://kde.org/applications/multimedia/org.kde.kmix) - A sound channel mixer and volume control 📌.
-- [KWave](https://apps.kde.org/en/kwave) - A sound editor built on the KDE Frameworks 5 📌.
+- [Elisa](https://elisa.kde.org/) - A music player developed by the KDE community that strives to be simple and nice to use 📌.
+- [KMix](https://apps.kde.org/kmix/) - A sound channel mixer and volume control 📌.
+- [KWave](https://apps.kde.org/kwave/) - A sound editor built on the KDE Frameworks 5 📌.
 
 ### Office & Productivity
 
 - [Calligra](https://www.calligra.org/) - Includes efficient and capable office components 📌.
-- [Kate](https://www.kde.org/applications/utilities/kate/) - A multi-document, multi-view text editor by KDE 📌.
-- [KWrite](https://www.kde.org/applications/utilities/kwrite) - A text editor by KDE, based on the KDE Frameworks editor component 📌.
-- [Kronometer](https://userbase.kde.org/Kronometer) A stopwatch application for KDE 📌.
-- [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak can be used to remind you to take a break now and then 📌.
+- [Kate](https://apps.kde.org/kate/) - A multi-document, multi-view text editor by KDE 📌.
+- [KWrite](https://apps.kde.org/kwrite/) - A text editor by KDE, based on the KDE Frameworks editor component 📌.
+- [Kronometer](https://apps.kde.org/kronometer/) A stopwatch application for KDE 📌.
+- [RSI Break](https://apps.kde.org/rsibreak/) - RSIBreak can be used to remind you to take a break now and then 📌.
 
 ### System Administration
 
-- [Dolphin](https://userbase.kde.org/Dolphin) - File manager included in the KDE desktop 📌.
-- [Discover](https://userbase.kde.org/Discover) - Intended for users and distros where the terminal isn't the optimal solution for installation of apps and add-ons or updates 📌.
-- [Konsole](https://www.kde.org/applications/system/konsole/) - Terminal emulator included in the KDE desktop 📌.
-- [Yakuake](https://userbase.kde.org/Yakuake) - A drop-down terminal emulator based on KDE's Konsole technology 📌.
-- [KDiskFree](https://apps.kde.org/en/kdf) - Displays the available file devices (hard drive partitions, drives, etc.) along with information on their capacity, free space, type and mount point 📌.
+- [Dolphin](https://apps.kde.org/dolphin/) - File manager included in the KDE desktop 📌.
+- [Discover](https://apps.kde.org/discover/) - Intended for users and distros where the terminal isn't the optimal solution for installation of apps and add-ons or updates 📌.
+- [Konsole](https://apps.kde.org/konsole/) - Terminal emulator included in the KDE desktop 📌.
+- [Yakuake](https://apps.kde.org/yakuake/) - A drop-down terminal emulator based on KDE's Konsole technology 📌.
+- [KDiskFree](https://apps.kde.org/kdf/) - Displays the available file devices (hard drive partitions, drives, etc.) along with information on their capacity, free space, type and mount point 📌.
 - [KInfoCenter](https://userbase.kde.org/KInfoCenter) - A utility that provides detailed information about a computer system 📌.
-- [KSystemLog](https://www.kde.org/applications/system/ksystemlog/) - A system log viewer tool 📌.
-- [Sweeper](https://www.kde.org/applications/utilities/sweeper) - Sweeper helps to clean unwanted traces the user leaves on the system and to regain disk space removing unused temporary files 📌.
-- [Kup](https://invent.kde.org/system/kup) - A backup scheduler for KDE's Plasma desktop 📌.
+- [KSystemLog](https://apps.kde.org/ksystemlog/) - A system log viewer tool 📌.
+- [Sweeper](https://apps.kde.org/sweeper/) - Sweeper helps to clean unwanted traces the user leaves on the system and to regain disk space removing unused temporary files 📌.
+- [Kup](https://apps.kde.org/kup/) - A backup scheduler for KDE's Plasma desktop 📌.
 - [Krusader](https://krusader.org/) - An advanced twin panel (commander style) file manager for KDE 📌.
 
 ### Utilities & Tools
