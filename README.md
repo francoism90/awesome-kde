@@ -120,6 +120,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Extensions
 
+- [Bismuth](https://github.com/Bismuth-Forge/bismuth) - A KDE Plasma extension that lets you tile windows automatically and manage them via keyboard, just like in classical tiling window managers (i3, dwm or XMondad).
 - [Dynamic Wallpaper Engine](https://github.com/zzag/plasma5-wallpapers-dynamic) - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
 - [Hoppla](https://github.com/Fuchs/hoppla-sa) - KDE Plasma desktop widget to control Philips Hue lights.
 - [Kvantum](https://github.com/tsujan/Kvantum) - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
@@ -195,7 +196,8 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 ## Documentation and Resources
 
 - [KDE Wikis](https://wiki.kde.org/) - The KDE wikis are a source of information and documentation for the KDE desktop, applications, teams, events and more 📌.
-- [KDE Invent](https://invent.kde.org/) - Discover KDE projects, groups and snippets. 📌.
+- [KDE Invent](https://invent.kde.org/) - Discover KDE projects, groups and snippets 📌.
+- [KDE Bugtracker](https://bugs.kde.org/) - KDE's official Bugtracker 📌.
 - [ArchWiki](https://wiki.archlinux.org/index.php/KDE) - Arch Linux KDE Wiki.
 - [Gentoo Wiki](https://wiki.gentoo.org/wiki/KDE) - Gentoo KDE Wiki.
 - [KDE Configs](https://github.com/shalva97/kde-configuration-files) - List of KDE configuration files and more.
