@@ -192,9 +192,10 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 - [Delicious](https://github.com/stuomas/delicious-sddm-theme) - A delicious SDDM theme for DE collectors/addicts.
 - [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy) - The sweetest login theme available for the SDDM display manager.
 
-## Documentation
+## Documentation and Resources
 
 - [KDE Wikis](https://wiki.kde.org/) - The KDE wikis are a source of information and documentation for the KDE desktop, applications, teams, events and more 📌.
+- [KDE Invent](https://invent.kde.org/) - Discover KDE projects, groups and snippets. 📌.
 - [ArchWiki](https://wiki.archlinux.org/index.php/KDE) - Arch Linux KDE Wiki.
 - [Gentoo Wiki](https://wiki.gentoo.org/wiki/KDE) - Gentoo KDE Wiki.
 - [KDE Configs](https://github.com/shalva97/kde-configuration-files) - List of KDE configuration files and more.
