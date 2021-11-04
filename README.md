@@ -86,14 +86,13 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 
 ### Utilities & Tools
 
-- [Ark](https://www.kde.org/applications/utilities/ark/) - Archiving Tool 📌.
-- [KFind](https://www.kde.org/applications/utilities/kfind/) - A standalone search tool, launched by KRunner or from your menu. It is also integrated into Konqueror as "Find File" in the "Tools" menu 📌.
-- [KFontview](https://docs.kde.org/trunk5/en/kde-workspace/kfontview/index.html) - An application to view and install different types of fonts 📌.
-- [KDE Wallet Manager](https://utils.kde.org/projects/kwalletmanager/) - Manage the passwords on KDE systems. The KDE wallet subsystem allows access and password management of every application that integrates with the KDE wallet 📌.
+- [Ark](https://apps.kde.org/ark/) - Archiving Tool 📌.
+- [KFind](https://apps.kde.org/kfind/) - A standalone search tool, launched by KRunner or from your menu. It is also integrated into Konqueror as "Find File" in the "Tools" menu 📌.
+- [KDE Wallet Manager](https://apps.kde.org/kwalletmanager5/) - Manage the passwords on KDE systems. The KDE wallet subsystem allows access and password management of every application that integrates with the KDE wallet 📌.
 - [KeePassXC](https://keepassxc.org/) - Cross-platform community-driven port of Keepass password manager.
 - [QtPass](https://qtpass.org/) - A multi-platform GUI for [pass](https://www.passwordstore.org/).
 - [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) - Reliable MTP client with minimalistic UI.
-- [KRename](https://userbase.kde.org/KRename) - A utility to rename multiple files 📌.
+- [KRename](https://apps.kde.org/krename/) - A utility to rename multiple files 📌.
 - [KWin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) - An attempt to reduce latency and stuttering in the popular KWin compositor used in KDE.
 - [KWinFT](https://gitlab.com/kwinft/kwinft) - Wayland compositor and X11 window manager.
 - [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) - Auto Night-mode for Linux.
@@ -103,14 +102,14 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 ### Development & Programming
 
 - [KDevelop](https://www.kdevelop.org/) - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP 📌.
-- [Kompare](https://www.kde.org/applications/development/kompare/) - A diff/patch frontend 📌.
+- [Kompare](https://apps.kde.org/kompare/) - A diff/patch frontend 📌.
 - [Qt Designer](http://doc.qt.io/qt-5/qtdesigner-manual.html) - Qt tool for designing and building graphical user interfaces (GUIs) with Qt Widgets.
 - [Umbrello](https://umbrello.kde.org/) - UML Modeller is a Unified Modelling Language (UML) diagram program based on KDE Technology 📌.
-- [Okteta](https://www.kde.org/applications/utilities/okteta/) - Hex Editor 📌.
+- [Okteta](https://apps.kde.org/okteta/) - Hex Editor 📌.
 
 ### Education
 
-- [KTurtle](https://www.kde.org/applications/education/kturtle/) - An educational programming environment that aims to make learning how to program as easy as possible 📌.
+- [KTurtle](https://apps.kde.org/kturtle/) - An educational programming environment that aims to make learning how to program as easy as possible 📌.
 - [LabPlot](https://labplot.kde.org/) - Interactive graphing and analysis of scientific data 📌.
 
 ## Customization
@@ -132,7 +131,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 #### KCM Modules and Systems
 
 - [kde-gtk-config](https://invent.kde.org/plasma/kde-gtk-config) - GTK2 and GTK3 Configurator for KDE 📌.
-- [kcm-wacomtablet](https://apps.kde.org/en/wacomtablet) - KDE GUI for the Wacom Linux Drivers 📌.
+- [kcm-wacomtablet](https://apps.kde.org/wacomtablet/) - KDE GUI for the Wacom Linux Drivers 📌.
 - [kded_rotation](https://github.com/dos1/kded_rotation) - A small, hacky KDED module for handling automatic screen rotation on tablets and hybrid laptops.
 
 #### Themes
