@@ -36,11 +36,13 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 - [Konversation](https://konversation.kde.org/) - A user-friendly Internet Relay Chat (IRC) client built on the KDE Platform 📌.
 - [KRDC](https://apps.kde.org/krdc/) - A client application that allows you to view or control a desktop session on another machine that is running a compatible server (VNC & RDP) 📌.
 - [KTorrent](https://apps.kde.org/ktorrent/) - A BitTorrent application which allows you to download files using the BitTorrent protocol 📌.
+- [NeoChat](https://apps.kde.org/neochat/) - Matrix network client for KDE 📌.
 - [Otter Browser](https://otter-browser.org/) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.
 - [Plasma-browser-integration](https://userbase.kde.org/Plasma-browser-integration) - A suite of new features which make [Firefox](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/), [Chrome](https://chrome.google.com/webstore/detail/plasma-integration/cimiefiiaegbelhefglklhhakcgmhkai) and Chromium-based browsers work with your desktop 📌.
 - [qBittorrent](https://www.qbittorrent.org/) - An advanced BitTorrent client programmed in C++, based on Qt toolkit and libtorrent-rasterbar.
 - [Qt WebBrowser](http://doc.qt.io/QtWebBrowser/) - Qt WebBrowser is a browser for embedded devices developed using the capabilities of Qt and Qt WebEngine.
 - [Smb4K](https://apps.kde.org/en/smb4k) - Advanced Network Neighborhood Browser and Samba Share Mounting Utility 📌.
+- [Tokodon](https://apps.kde.org/pt-br/tokodon/) - Tokodon is a Mastodon client. It allows you to interact with the Fediverse community 📌. 
 
 ### Graphics & Imaging
 
@@ -66,6 +68,7 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 ### Office & Productivity
 
 - [Calligra](https://www.calligra.org/) - Includes efficient and capable office components 📌.
+- [GhostWriter](https://ghostwriter.kde.org/) - No distraction markdown editor 📌.
 - [Kate](https://apps.kde.org/kate/) - A multi-document, multi-view text editor by KDE 📌.
 - [Kronometer](https://apps.kde.org/kronometer/) A stopwatch application for KDE 📌.
 - [KWrite](https://apps.kde.org/kwrite/) - A text editor by KDE, based on the KDE Frameworks editor component 📌.
@@ -95,12 +98,14 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 - [KRename](https://apps.kde.org/krename/) - A utility to rename multiple files 📌.
 - [KWin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) - An attempt to reduce latency and stuttering in the popular KWin compositor used in KDE.
 - [KWinFT](https://gitlab.com/kwinft/kwinft) - Wayland compositor and X11 window manager.
+- [QOwnNotes](https://www.qownnotes.org/) - Note taking app with cloud integration, web and mobile support.
 - [QtPass](https://qtpass.org/) - A multi-platform GUI for [pass](https://www.passwordstore.org/).
 - [Wacom GUI](https://github.com/tb2097/wacom-gui) - Python/PyQt Wacom GUI for KDE.
 - [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) - Auto Night-mode for Linux.
 
 ### Development & Programming
 
+- [Kate](https://kate-editor.org/) - Kate is a Feature-Packed Code Editor with advanced support for LSP, Syntax Highlighting, multi-cursoe and more 📌.
 - [KDevelop](https://www.kdevelop.org/) - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP 📌.
 - [Kompare](https://apps.kde.org/kompare/) - A diff/patch frontend 📌.
 - [Okteta](https://apps.kde.org/okteta/) - Hex Editor 📌.
@@ -120,12 +125,13 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Extensions
 
-- [Bismuth](https://github.com/Bismuth-Forge/bismuth) - A KDE Plasma extension that lets you tile windows automatically and manage them via keyboard, just like in classical tiling window managers (i3, dwm or XMondad).
+- [Bismuth](https://github.com/Bismuth-Forge/bismuth) - A KDE Plasma extension that lets you tile windows automatically and manage them via keyboard, just like in classical tiling window managers (i3, dwm or XMondad). (**NOTE** for KDE Plasma 6, check Polonium listed below)
 - [Dynamic Wallpaper Engine](https://github.com/zzag/plasma5-wallpapers-dynamic) - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
 - [Hoppla](https://github.com/Fuchs/hoppla-sa) - KDE Plasma desktop widget to control Philips Hue lights.
 - [Kvantum](https://github.com/tsujan/Kvantum) - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
 - [Latte-Dock](https://invent.kde.org/plasma/latte-dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids 📌.
 - [Places Widget](https://github.com/dfaust/plasma-applet-places-widget) - Plasma 5 widget that gives access to user places.
+- [Polonium](https://zeroxoneafour.github.io/polonium/) - The successor of Bismuth for KDE Plasma 6.
 - [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) - Plasma 5 applet in order to show the window appmenu.
 - [Window Title Applet](https://github.com/psifidotos/applet-window-title/) - Plasma 5 applet that shows the current window title and icon in your panels.
 
