@@ -59,6 +59,7 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 - [Amarok](https://amarok.kde.org/) - Amarok is a powerful music player for Linux, Unix and Windows with an intuitive interface 📌.
 - [Elisa](https://elisa.kde.org/) - A music player developed by the KDE community that strives to be simple and nice to use 📌.
 - [Haruna](https://invent.kde.org/multimedia/haruna) - Open source video player built with Qt/QML and libmpv 📌.
+- [KCast](https://github.com/Agundur-KDE/KCast) - A Plasma 6 widget to cast video files or YouTube URLs to a Chromecast device.
 - [Kdenlive](https://www.kdenlive.org/) - A non-linear video editor for Linux using the MLT video framework.
 - [KMix](https://apps.kde.org/kmix/) - A sound channel mixer and volume control 📌.
 - [KWave](https://apps.kde.org/kwave/) - A sound editor built on the KDE Frameworks 5 📌.
