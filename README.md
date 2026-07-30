@@ -198,6 +198,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 - [Grid-Tiling-Kwin](https://github.com/lingtjien/Grid-Tiling-Kwin) - A kwin script that automatically tiles windows.
 - [Kröhnkite](https://github.com/anametologin/krohnkite) - A dynamic tiling extension for KWin.
 - [kwin-tiling](https://github.com/faho/kwin-tiling) - Tiling script for kwin.
+- [Panel Dodge](https://github.com/iacosta3994/panel-dodge) - Moves the panel to another monitor while a window is fullscreen on the panel's screen, and back when it's gone.
 
 #### Display Manager
 
