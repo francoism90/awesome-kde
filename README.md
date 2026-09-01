@@ -88,11 +88,14 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 - [Sweeper](https://apps.kde.org/sweeper/) - Sweeper helps to clean unwanted traces the user leaves on the system and to regain disk space removing unused temporary files 📌.
 - [Yakuake](https://apps.kde.org/yakuake/) - A drop-down terminal emulator based on KDE's Konsole technology 📌.
 
+### Accessibility
+
+- [Blitztext Linux](https://github.com/TimInTech/blitztext-linux) - Hotkey-driven voice dictation tray app for KDE Plasma/Wayland: hold a key, speak, and the local Whisper transcript is pasted into the active app. Optional LLM text workflows.
+
 ### Utilities & Tools
 
 - [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) - Reliable MTP client with minimalistic UI.
 - [Ark](https://apps.kde.org/ark/) - Archiving Tool 📌.
-- [Blitztext Linux](https://github.com/TimInTech/blitztext-linux) - Hotkey-driven voice dictation tray app for KDE Plasma/Wayland: hold a key, speak, and the local Whisper transcript is pasted into the active app. Optional LLM text workflows.
 - [dictee](https://github.com/rcspam/dictee) - Push-to-talk voice dictation with KDE Plasma 6 plasmoid, PyQt6 setup wizard, and tray icon. 4 ASR backends (Parakeet, Vosk, Whisper, Canary), post-processing pipeline, translation. 100% local, 25+ languages.
 - [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) - GUI for fancontrol which is part of lm_sensors.
 - [KDE Wallet Manager](https://invent.kde.org/utilities/kwalletmanager/) - Manage the passwords on KDE systems. The KDE wallet subsystem allows access and password management of every application that integrates with the KDE wallet 📌.
