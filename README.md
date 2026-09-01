@@ -89,6 +89,10 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 - [Sweeper](https://apps.kde.org/sweeper/) - Sweeper helps to clean unwanted traces the user leaves on the system and to regain disk space removing unused temporary files 📌.
 - [Yakuake](https://apps.kde.org/yakuake/) - A drop-down terminal emulator based on KDE's Konsole technology 📌.
 
+### Accessibility
+
+- [Blitztext Linux](https://github.com/TimInTech/blitztext-linux) - Hotkey-driven voice dictation tray app for KDE Plasma/Wayland: hold a key, speak, and the local Whisper transcript is pasted into the active app. Optional LLM text workflows.
+
 ### Utilities & Tools
 
 - [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) - Reliable MTP client with minimalistic UI.
