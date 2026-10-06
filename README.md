@@ -143,6 +143,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 - [KDoit](https://github.com/lubdhak7414/KDoit) - Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.
 - [Latte-Dock](https://invent.kde.org/plasma/latte-dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids for **Plasma 5** 📌. ⚠️ Unmaintained.
 - [Latte Dock NG](https://github.com/ruizhi-lab/latte-dock-ng) is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
+- [Krema](https://github.com/isac322/krema) - A Wayland-native dock for KDE Plasma 6 with parabolic zoom animations.
 - [EZMonitor](https://github.com/Agundur-KDE/EZMonitor) - A Plasma 6 widget that shows the live power output of an APsystems EZ1 microinverter.
 - [KClaude](https://github.com/Agundur-KDE/KClaude) - A Plasma 6 widget to remember Claude Code sessions and resume them in the right directory with one click.
 - [kfritz](https://github.com/Agundur-KDE/kfritz) - A Plasma 6 callmonitor widget for the AVM FRITZ!Box.
