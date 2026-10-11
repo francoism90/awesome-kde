@@ -92,6 +92,7 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 ### Accessibility
 
 - [Blitztext Linux](https://github.com/TimInTech/blitztext-linux) - Hotkey-driven voice dictation tray app for KDE Plasma/Wayland: hold a key, speak, and the local Whisper transcript is pasted into the active app. Optional LLM text workflows.
+- [TalkType](https://github.com/ronb1964/TalkType) - Push-to-talk voice dictation for Plasma on Wayland or X11: hold a key, talk, let go, and the text is typed into the active app. Runs offline with Parakeet or Whisper.
 
 ### Utilities & Tools
 
