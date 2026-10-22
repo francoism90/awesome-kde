@@ -164,6 +164,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 - [Canta](https://github.com/vinceliuice/Canta-kde) - A flat design theme for KDE Plasma desktop.
 - [ChromeOS](https://github.com/vinceliuice/ChromeOS-kde) - A materia Design theme for KDE Plasma desktop.
 - [Darkine KDE](https://github.com/Rokin05/darkine-kde) - Theme for KDE **Plasma 5** desktop, SDDM and more.
+- [Fastfetch KDE Splash](https://github.com/DeadIndian/fastfetch-kde-splash) - A matrix-style boot splash that renders your `fastfetch` system info with a glitch character-reveal, preserving full ANSI color (256 and 24-bit truecolor).
 - [Fluent](https://github.com/vinceliuice/Fluent-kde) - A Microsoft inspired fluent Design theme for the KDE Plasma desktop.
 - [Helium](https://store.kde.org/p/998869/) - A translucent theme for **Plasma 5**.
 - [Hello](https://github.com/n4n0GH/hello) - A compilation of various color-schemes, themes, icons and more for the KDE Plasma desktop. It is unopinionated, putting you in charge.
