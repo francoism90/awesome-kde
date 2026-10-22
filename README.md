@@ -140,6 +140,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 - [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) - **Plasma 5** applet in order to show the window appmenu.
 - [Window Title Applet](https://github.com/psifidotos/applet-window-title/) - **Plasma 5** applet that shows the current window title and icon in your panels.
 - [Karousel](https://github.com/peterfajdiga/karousel) - KWin tiling script with scrolling. Works especially well with ultrawide screens.
+- [kwin-canvas](https://github.com/RitwickVerma/kwin-canvas) - KWin QML effect that puts windows on a shared infinite canvas with per-desktop monitor frames; zoom out to navigate, zoom in to work 1:1.
 - [KDoit](https://github.com/lubdhak7414/KDoit) - Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.
 - [Latte-Dock](https://invent.kde.org/plasma/latte-dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids for **Plasma 5** 📌. ⚠️ Unmaintained.
 - [Latte Dock NG](https://github.com/ruizhi-lab/latte-dock-ng) is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
