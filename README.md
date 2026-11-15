@@ -219,6 +219,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 ## Documentation and Resources
 
+- [Copilot Kubuntu Desktop Kit](https://github.com/arjith/copilot-kubuntu-desktop-kit) - Unofficial Copilot CLI skills and examples for KDE Wayland, with optional portal-based desktop control.
 - [KDE Wikis](https://wiki.kde.org/) - The KDE wikis are a source of information and documentation for the KDE desktop, applications, teams, events and more 📌.
 - [KDE Invent](https://invent.kde.org/) - Discover KDE projects, groups and snippets 📌.
 - [KDE Bugtracker](https://bugs.kde.org/) - KDE's official Bugtracker 📌.
