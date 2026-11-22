@@ -99,6 +99,7 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 - [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) - Reliable MTP client with minimalistic UI.
 - [Ark](https://apps.kde.org/ark/) - Archiving Tool 📌.
 - [dictee](https://github.com/rcspam/dictee) - Push-to-talk voice dictation with KDE Plasma 6 plasmoid, PyQt6 setup wizard, and tray icon. 4 ASR backends (Parakeet, Vosk, Whisper, Canary), post-processing pipeline, translation. 100% local, 25+ languages.
+- [dotplasma](https://github.com/A-Murchison/dotplasma) - A CLI to back up, compare, import, and restore KDE Plasma configurations.
 - [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) - GUI for fancontrol which is part of lm_sensors.
 - [KDE Wallet Manager](https://invent.kde.org/utilities/kwalletmanager/) - Manage the passwords on KDE systems. The KDE wallet subsystem allows access and password management of every application that integrates with the KDE wallet 📌.
 - [KeePassXC](https://keepassxc.org/) - Cross-platform community-driven port of Keepass password manager.
