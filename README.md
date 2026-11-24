@@ -110,6 +110,7 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 - [LocalTranslate](https://github.com/terslang/LocalTranslate) - Offline translation app built with Qt Quick that makes use of Firefox's [neural translation models](https://github.com/mozilla/firefox-translations-models).
 - [QOwnNotes](https://www.qownnotes.org/) - Note taking app with cloud integration, web and mobile support.
 - [QtPass](https://qtpass.org/) - A multi-platform GUI for [pass](https://www.passwordstore.org/).
+- [Tomoyo Launcher](https://github.com/q871958549/Tomoyo) - Ultra-low-memory native Rust desktop launcher for KDE Plasma (Wayland/X11, KWin & KGlobalAccel integration) with file search, clipboard manager, offline OCR, and WASM/STDIO plugins.
 - [Wacom GUI](https://github.com/tb2097/wacom-gui) - Python/PyQt Wacom GUI for KDE.
 - [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) - Auto Night-mode for Linux.
 
