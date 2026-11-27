@@ -168,6 +168,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 - [Darkine KDE](https://github.com/Rokin05/darkine-kde) - Theme for KDE **Plasma 5** desktop, SDDM and more.
 - [Fastfetch KDE Splash](https://github.com/DeadIndian/fastfetch-kde-splash) - A matrix-style boot splash that renders your `fastfetch` system info with a glitch character-reveal, preserving full ANSI color (256 and 24-bit truecolor).
 - [Fluent](https://github.com/vinceliuice/Fluent-kde) - A Microsoft inspired fluent Design theme for the KDE Plasma desktop.
+- [HaltOS](https://github.com/halitsever/haltos) - A monochrome terminal-style theme for **Plasma 6** with a matching color scheme, Kvantum style, SDDM login screen and Plymouth splash.
 - [Helium](https://store.kde.org/p/998869/) - A translucent theme for **Plasma 5**.
 - [Hello](https://github.com/n4n0GH/hello) - A compilation of various color-schemes, themes, icons and more for the KDE Plasma desktop. It is unopinionated, putting you in charge.
 - [Layan](https://github.com/vinceliuice/Layan-kde) - A flat design theme for KDE Plasma desktop.
